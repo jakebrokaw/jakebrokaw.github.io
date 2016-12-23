@@ -37,7 +37,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $roboto;
-  color: $darkGray;
+  color: $darkerGray;
   font-weight: bold;
   letter-spacing: 1px;
 
@@ -290,17 +290,32 @@ nav {
 }
 
 .illustrations {
-  height: 525px;
+  height: 475px;
   width: auto;
   margin: 0 20px 20px 0;
 }
 
+.footnote {
+  font-size: 10px;
+  font-style: italic;
+  text-align: right;
+}
+
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid $gray;
+  border-top: 2px solid $lightGray;
   background-color: $darkerGray;
   color: $white;
-  bottom: 0;
+}
+
+.footer-img {
+  height: 40px;
+  width: auto;
+  margin: 10px;
+}
+
+.footer-txt {
+  font-size: 14px;
 }
 
 footer {

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: I Am Not You
+title: I am not you
 excerpt_separator: <!--more-->
 ---
 
-<em>Obviously.</em>
+<em>And I'm finally cool with that.</em>
 
 I’ve been reading some awesome and inspiring articles on Medium as well as other outlets lately. We live in an amazing time with so many ambitious people sharing how they’re bettering themselves and the world. It’s great to see others not settling for mediocrity, but striving to improve the quality of their lives and the lives around them.
 <!--more-->
