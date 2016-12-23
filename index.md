@@ -7,7 +7,7 @@ layout: default
 {: .footnote }
 
 <h1>Hey there, I'm Jake.</h1>
-I'm a web designer and front-end developer at <a href="https://www.formstack.com" target="_blank">Formstack</a>. Originally from Ohio, I now enjoy being a nomad of sorts --- moving from city to city, meeting new people, and having new experiences. I currently live in Tulsa, OK with my talented wife, <a href="https://www.sparks-of-art.com" target="_blank">Sarah</a>, and our <a href="https://www.instagram.com/p/wm-FsonqsK/?taken-by=jacobrokaw" target="_blank">hyperactive cats</a>. Besides designing and coding websites, I like to spend my time reading, illustrating, exploring, and drinking a good cup of coffee/tea. I apparently also enjoy emo-posing by the ocean.
+I'm a web designer and front-end developer at <a href="https://www.formstack.com" target="_blank">Formstack</a>. Originally from Ohio, I now enjoy being a nomad of sorts --- moving from city to city, meeting new people, and having new experiences. I currently live in Tulsa, OK with my talented wife, <a href="https://www.sparks-of-art.com" target="_blank">Sarah</a>, and our <a href="https://www.instagram.com/p/wm-FsonqsK/?taken-by=jacobrokaw" target="_blank">hyperactive cats</a>. Besides designing and coding websites, I like to spend my time reading, illustrating, exploring, and drinking a good cup of coffee/tea. I'm apparently pretty good at emo-posing by the ocean, too.
 
 <h2>Currently reading:</h2>
 
