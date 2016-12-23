@@ -4,7 +4,7 @@ title: I Am Not You
 excerpt_separator: <!--more-->
 ---
 
-<em>And I'm finally okay with that.</em>
+<em>Obviously.</em>
 
 I’ve been reading some awesome and inspiring articles on Medium as well as other outlets lately. We live in an amazing time with so many ambitious people sharing how they’re bettering themselves and the world. It’s great to see others not settling for mediocrity, but striving to improve the quality of their lives and the lives around them.
 <!--more-->
@@ -22,6 +22,10 @@ I have this internal drive to constantly be learning and bettering myself in som
 So there I am, reading article after article, chapter after chapter, about things I’m going to do in order to improve my life, my career and the entire planet. Not surprisingly, I get overwhelmed and quit before I even begin to change anything. I get a little depressed and realize I have too many things in my life that need fixing.
 
 This is slightly insane because, when I actually think about it, I really like my life. I’m married to an amazing, beautiful girl who encourages me like crazy. We recently moved to Austin, TX where awesome things happen all the time. I have a great job as a web designer and get to work from home (or anywhere, really). We have a nice apartment. We’re able to pay our bills and our shitty student loans. I have a great family who I know will always have my back.
+
+<br>
+![I am not you]({{ site.baseurl }}/images/blog/i-am-not-you.jpg)
+<br>
 
 Despite all these things that are supposed to make me happy, I still find myself with a great sense of discontentment. No matter how good I have it, I still want what others have and I want to do what they do. Don’t get me wrong, I think it’s super valuable to read about someone else’s struggles and how they overcame them somehow. And I’m definitely not just going to stop reading all these great articles. Most of the things that I now enjoy about my life actually came from some conscious change I made in the past.
 
