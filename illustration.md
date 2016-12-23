@@ -3,7 +3,7 @@ layout: page
 title: Illustration
 ---
 
-### Pet Portraits
+<h2>Pet Portraits</h2>
 
 ![abu]({{ site.baseurl }}/images/illustration/abu.png){: .illustrations }
 ![chai]({{ site.baseurl }}/images/illustration/chai.png){: .illustrations }

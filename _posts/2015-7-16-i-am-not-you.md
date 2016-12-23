@@ -34,10 +34,10 @@ Taking steps to improve your life is extremely rewarding. I’m not telling you 
 
 Evaluate your own life and unveil the areas that you’d actually like to improve. Also, it’s just as important to unveil the areas that you enjoy — this will remind you that your life really isn’t all that bad. If you know you love where you live, you might not get as jealous when you read about how someone’s life changed for the better now that they’re living in Italy (okay, bad example, because that’s always going to sound awesome).
 
-There are so many creatively brilliant people in the world — and it’s hard not to wish we were living their lives. But I’m starting to realize that I have what it takes to make my own life brilliant and memorable. We all do. One step at a time.
-So take my advice or leave it — because, in reality, I am not you.
-
 <blockquote>
 To help yourself, you must be yourself. <br>
 <author>— Dave Pelzer</author>
 </blockquote>
+
+There are so many creatively brilliant people in the world — and it’s hard not to wish we were living their lives. But I’m starting to realize that I have what it takes to make my own life brilliant and memorable. We all do. One step at a time.
+So take my advice or leave it — because, in reality, I am not you.

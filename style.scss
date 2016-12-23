@@ -36,9 +36,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $roboto;
   color: $darkGray;
   font-weight: bold;
+  letter-spacing: 1px;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -71,12 +72,18 @@ h4 {
 
 p {
   margin: 15px 0;
+  font-family: $robotoSlab;
+  font-weight: 300;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  font-size: 20px;
 }
 
 a {
-  color: $lightTeal;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
+  // font-weight: 400;
   &:hover, &:active {
     text-decoration: line-through;
   }
@@ -123,6 +130,9 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+  font-family: $robotoSlab;
+  font-size: 18px;
+  font-weight: 300;
 }
 
 // Specify the color of the selection
