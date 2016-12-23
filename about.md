@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey, I'm Jake. I'm a web designer and developer at [Formstack](https://www.formstack.com/about). I live in Tulsa, OK with my talented wife, [Sarah](sparks-of-art.com), and our [hyperactive cats](https://www.instagram.com/p/wm-FsonqsK/?taken-by=jacobrokaw). Besides designing and coding websites, I enjoy illustrating, reading, exploring, and drinking a good cup of coffee.
 
 ### More Information
 
