@@ -17,4 +17,4 @@ I'm a web designer and front-end developer at <a href="https://www.formstack.com
 
 <h2>Let's work together:</h2>
 
-If you're in need of a freelance front-end developer/designer or if you'd just like an illustrated portrait of your pet(s), please don't hesitate to [reach out](mailto:jacobrokaw@gmail.com)!
+If you're in need of a freelance front-end developer/designer or if you'd just like an [illustrated portrait of your pet(s)](/illustration), please don't hesitate to [reach out](mailto:jacobrokaw@gmail.com)!
