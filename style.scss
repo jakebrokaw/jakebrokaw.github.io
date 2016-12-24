@@ -313,13 +313,20 @@ nav {
 }
 
 .footer-img {
-  height: 40px;
+  height: 35px;
   width: auto;
   margin: 10px;
 }
 
 .footer-txt {
   font-size: 14px;
+  text-transform: uppercase;
+  font-family: $opensans;
+}
+
+.footer-coffee {
+  height: 16px;
+  margin: 0 3px;
 }
 
 footer {
