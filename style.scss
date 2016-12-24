@@ -295,6 +295,7 @@ nav {
 
   @include mobile {
     width: 100%;
+    margin: 0 0 20px 0;
   }
 
 }
@@ -319,13 +320,18 @@ nav {
 }
 
 .footer-txt {
-  font-size: 14px;
+  font-size: 12px;
   text-transform: uppercase;
   font-family: $opensans;
+
+  &.copyright {
+    margin-bottom: 30px;
+  }
+
 }
 
 .footer-coffee {
-  height: 16px;
+  height: 14px;
   margin: 0 3px;
 }
 
