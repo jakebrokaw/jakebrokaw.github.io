@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Creating a new website with GitHub Pages and Jekyll
+comments: true
 ---
 
 I had been wanting to redo my website for a while now. I also wanted to start writing more in the coming year, so I knew I needed a way to create, edit, and publish blog posts easily. There's no shortage of resources and platforms to get a personal blog/website up quickly, but I have never really liked the well-known blogging Content Management Systems (WordPress, Tumblr, Ghost, etc.). So I decided to try something I hadn't used before --- I wanted to learn something new. Enter <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> and <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
