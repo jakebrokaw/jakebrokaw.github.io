@@ -68,7 +68,7 @@ Next, you'll want to add two "CNAME" records, one with a Hostname of "www" and o
 
 And that should do it! Keep in mind, when moving an existing domain name to a different host, it can take a few hours (even upwards of a full day) to see your domain pointing to your new site.
 
-<h2 class="blog-subhead">Other Helpful links</h2>
+<h2 class="blog-subhead">Helpful links:</h2>
 
 Smashing Magazine: [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 <br>
