@@ -6,11 +6,11 @@ comments: true
 
 I had been wanting to redo my website for a while now. I also wanted to start writing more in the coming year, so I knew I needed a way to create, edit, and publish blog posts easily. There's no shortage of resources and platforms to get a personal blog/website up quickly, but I have never really liked the well-known blogging Content Management Systems (WordPress, Tumblr, Ghost, etc.). So I decided to try something I hadn't used before --- I wanted to learn something new. Enter <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> and <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
 
-There's a few options on how to get started, but the _easiest_ starting point, in my opinion, is <a href="https://github.com/barryclark/jekyll-now" target="_blank">Jekyll Now</a> from Barry Clark.
+There's a few options on how to get started, but the _easiest_ starting point, in my opinion, is **Jekyll Now** from Barry Clark.
 
 <h2 class="blog-subhead">Getting started with Jekyll Now:</h2>
 
-You can follow the step by step instructions via the link above, but essentially you'll want to make sure you're logged in to your GitHub account, then fork the Jekyll Now repository. When it's finished, rename your new repo in the Settings tab to _username.github.io_ (where "username" is your GitHub username). Now type _username.github.io_ into your browser and you'll see the default Jekyll Now template! Super easy.
+First, make sure you're logged in to your GitHub account, then fork the <a href="https://github.com/barryclark/jekyll-now" target="_blank">Jekyll Now repository</a>. When it's finished, rename your new repo in the Settings tab to _username.github.io_ (where "username" is your GitHub username). Now type _username.github.io_ into your browser and you'll see the default Jekyll Now template! Super easy.
 
 From here, you can edit files via GitHub if you're into that. Or, if you're like me, you can edit your files locally in your editor of choice (I prefer <a href="https://atom.io/" target="_blank">Atom</a>).
 
