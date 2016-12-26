@@ -7,15 +7,13 @@ I had been wanting to redo my website for a while now. I also wanted to start wr
 
 There's a few options on how to get started, but the _easiest_ starting point, in my opinion, is <a href="https://github.com/barryclark/jekyll-now" target="_blank">Jekyll Now</a> from Barry Clark.
 
-<br>
-<h3>Getting started with Jekyll Now:</h3>
+<h2 class="blog-subhead">Getting started with Jekyll Now:</h2>
 
 You can follow the step by step instructions via the link above, but essentially you'll want to make sure you're logged in to your GitHub account, then fork the Jekyll Now repository. When it's finished, rename your new repo in the Settings tab to _username.github.io_ (where "username" is your GitHub username). Now type _username.github.io_ into your browser and you'll see the default Jekyll Now template! Super easy.
 
 From here, you can edit files via GitHub if you're into that. Or, if you're like me, you can edit your files locally in your editor of choice (I prefer <a href="https://atom.io/" target="_blank">Atom</a>).
 
-<br>
-<h3>For local development:</h3>
+<h2 class="blog-subhead">For local development:</h2>
 
 To edit the files locally, create a folder on your desktop (or wherever you want your local files to be stored). Then, open your terminal and navigate to that folder you just created. Next, install the 'github-pages' gem:
 
@@ -45,8 +43,7 @@ $ git push -u origin master
 
 You should then see your changes when you refresh your _username.github.io_ page in the browser.
 
-<br>
-<h3>Pointing an existing domain to your GitHub Pages site:</h3>
+<h2 class="blog-subhead">Pointing an existing domain to your GitHub Pages site:</h2>
 
 This part was a little tricky for me as most posts about this are specific to domain providers. And this post will be no different. My domain is parked at <a href="hover.com" target="_blank">Hover.com</a>, so the rest of this post will be specific to Hover.
 
@@ -70,8 +67,7 @@ Next, you'll want to add two "CNAME" records, one with a Hostname of "www" and o
 
 And that should do it! Keep in mind, when moving an existing domain name to a different host, it can take a few hours (even upwards of a full day) to see your domain pointing to your new site.
 
-<br>
-<h3>Other Helpful links</h3>
+<h2 class="blog-subhead">Other Helpful links</h2>
 
 Smashing Magazine: [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 <br>
