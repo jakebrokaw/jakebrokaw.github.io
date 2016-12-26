@@ -319,6 +319,18 @@ nav {
 
 }
 
+.illustrations-robots {
+  width: 30%;
+  height: auto;
+  margin: 0 20px 20px 0;
+
+  @include mobile {
+    width: 45%;
+    margin: 0 10px 20px 0;
+  }
+
+}
+
 .footnote {
   font-size: 10px;
   font-style: italic;
@@ -345,6 +357,15 @@ nav {
 
   a {
     color: $white;
+  }
+
+}
+
+.mobile-only {
+  display: none;
+
+  @include mobile {
+    display: block;
   }
 
 }
