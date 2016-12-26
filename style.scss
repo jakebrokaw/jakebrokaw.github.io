@@ -343,8 +343,8 @@ nav {
   text-transform: uppercase;
   font-family: $opensans;
 
-  &.copyright {
-    margin-bottom: 30px;
+  a {
+    color: $white;
   }
 
 }
