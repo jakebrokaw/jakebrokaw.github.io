@@ -52,8 +52,6 @@ You should then see your changes when you refresh your _username.github.io_ page
 
 <h2 class="blog-subhead">Pointing an existing domain to your GitHub Pages site:</h2>
 
-This part was a little tricky for me as most posts about this are specific to domain providers. And this post will be no different. My domain is parked at <a href="hover.com" target="_blank">Hover.com</a>, so the rest of this post will be specific to Hover.
-
 Make sure you <a href="https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/" target="_target">add a custom domain name</a> to your GitHub Pages site. You'll also want to add your domain to the CNAME file in the root directory of your site. For example, this is the only line of code in my CNAME file:
 
 {% highlight ruby %}
@@ -62,7 +60,9 @@ www.jacobrokaw.com
 
 Save that file and commit your changes/push up to your master.
 
-Next, log in to your Hover account. Click on the domain you want to be attached to your new GitHub Pages site. In the "Domain Details" tab, make sure the Nameservers are set to Hover's nameservers:
+This next part was a little tricky for me as most posts about this are specific to domain providers. And, unfortunately, this post will be no different as my domain is parked at <a href="hover.com" target="_blank">Hover.com</a> --- so the rest of these steps will be specific to Hover.
+
+Log in to your Hover account. Click on the domain you want to be attached to your new GitHub Pages site. In the "Domain Details" tab, make sure the Nameservers are set to Hover's nameservers:
 
 {% highlight ruby %}
 ns1.hover.com | ns2.hover.com
@@ -70,7 +70,7 @@ ns1.hover.com | ns2.hover.com
 
 Now, go to the "DNS" tab. You'll want to remove any old records that may have been pointing to a different provider. Next, add two "A" record types with the Hostname "@" and IP Addresses of "192.30.252.153" and "192.30.252.154" which points to GitHub.
 
-Next, you'll want to add two "CNAME" records, one with a Hostname of "www" and one with a Hostname of "*" --- the Target Host for both should be "username.github.io" to point to your repository.
+Then, you'll want to add two "CNAME" records, one with a Hostname of "www" and one with a Hostname of "*" --- the Target Host for both should be "username.github.io" to point to your repository.
 
 And that should do it! Keep in mind, when moving an existing domain name to a different host, it can take a few hours (even upwards of a full day) to see your domain pointing to your new site.
 
