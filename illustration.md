@@ -24,6 +24,8 @@ Would you like to add your pet's face here (and on your wall) next? <a href="mai
 
 <h2>Robots</h2>
 
+Created these for a project I was working on with my wife. These are some of my favorites.
+
 <div class="row small-up-2 medium-up-3">
   <div class="column illustrations">
     <img src="{{ site.baseurl }}/images/illustration/robots/016.png" alt="Robot Illustration">
@@ -60,9 +62,6 @@ Would you like to add your pet's face here (and on your wall) next? <a href="mai
   </div>
   <div class="column illustrations">
     <img src="{{ site.baseurl }}/images/illustration/robots/033.png" alt="Robot Illustration">
-  </div>
-  <div class="column illustrations">
-    <img src="{{ site.baseurl }}/images/illustration/robots/034-michael-bot.png" alt="Robot Illustration">
   </div>
 </div>
 
