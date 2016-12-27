@@ -7,6 +7,8 @@
 
 @import "reset";
 @import "variables";
+@import "app";
+@import "foundation";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -309,15 +311,8 @@ nav {
 }
 
 .illustrations {
-  width: 40%;
-  height: auto;
-  margin: 0 20px 20px 0;
-
-  @include mobile {
-    width: 100%;
-    margin: 0 0 20px 0;
-  }
-
+  margin-bottom: 15px;
+  padding-left: 0px !important;
 }
 
 .illustrations-robots {
