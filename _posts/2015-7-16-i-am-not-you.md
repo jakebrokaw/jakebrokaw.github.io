@@ -41,3 +41,5 @@ To help yourself, you must be yourself. <br>
 
 There are so many creatively brilliant people in the world — and it’s hard not to wish we were living their lives. But I’m starting to realize that I have what it takes to make my own life brilliant and memorable. We all do. One step at a time.
 So take my advice or leave it — because, in reality, I am not you.
+
+<em><a href="https://medium.com/@jacobrokaw/i-am-not-you-3af070b270a2#.pkqf1udzq" target="_blank">This article was originally posted on Medium</a>.</em>
