@@ -12,6 +12,12 @@ There's a few options on how to get started, but the _easiest_ starting point, i
 
 First, make sure you're logged in to your GitHub account, then fork the <a href="https://github.com/barryclark/jekyll-now" target="_blank">Jekyll Now repository</a>. When it's finished, rename your new repo in the Settings tab to _username.github.io_ (where "username" is your GitHub username). Now type _username.github.io_ into your browser and you'll see the default Jekyll Now template! Super easy.
 
+<br>
+
+![fistbump.gif]({{ site.baseurl }}/images/blog/fistbump.gif)
+
+<br>
+
 From here, you can edit files via GitHub if you're into that. Or, if you're like me, you can edit your files locally in your editor of choice (I prefer <a href="https://atom.io/" target="_blank">Atom</a>).
 
 <h2 class="blog-subhead">For local development:</h2>
