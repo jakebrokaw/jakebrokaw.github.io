@@ -13,6 +13,7 @@
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600|Roboto+Slab:300,400,700" rel="stylesheet">
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -28,10 +29,10 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">ABOUT</a>
-            <a href="{{ site.baseurl }}/illustration">ILLUSTRATION</a>
-            <a href="{{ site.baseurl }}/blog">BLOG</a>
+          <nav id="nav" class="nav">
+            <a href="/" id="about">ABOUT</a>
+            <a href="/illustration/" id="illustration">ILLUSTRATION</a>
+            <a href="/blog/" id="blog">BLOG</a>
           </nav>
         </header>
       </div>
@@ -53,7 +54,18 @@
         </footer>
       </div>
     </div>
+    <script>
 
+    $(function() {
+      if ((location.pathname.split("/")[1]) !== ""){
+          $('nav a[href^="/' + location.pathname.split("/")[1] + '"]').addClass('nav-active');
+      }
+      else {
+        $('nav #about').addClass('nav-active');
+      }
+    });
+
+    </script>
     {% include analytics.html %}
   </body>
 </html>

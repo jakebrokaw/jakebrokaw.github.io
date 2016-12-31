@@ -112,6 +112,7 @@ a {
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
+  font-family: $robotoSlab;
 }
 
 ul {
@@ -315,6 +316,10 @@ nav {
   padding-left: 0px !important;
 }
 
+.nav-active {
+  text-decoration: line-through;
+}
+
 .illustrations-robots {
   width: 30%;
   height: auto;
@@ -325,6 +330,15 @@ nav {
     margin: 0 10px 20px 0;
   }
 
+}
+
+.red-x {
+  color: red;
+  font-weight: bold;
+}
+
+.green-check {
+  color: green;
 }
 
 .footnote {
