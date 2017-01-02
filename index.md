@@ -11,9 +11,9 @@ I'm a web designer and front-end developer at <a href="https://www.formstack.com
 
 <h2>Currently reading:</h2>
 
-<em><a href="https://www.amazon.com/Why-Does-World-Exist-Existential/dp/0871403595/ref=mt_paperback?_encoding=UTF8&me=" target="_blank">Why Does the World Exist?</a></em> --- Jim Holt
+<em><a href="https://www.amazon.com/Elegant-Universe-Superstrings-Dimensions-Ultimate/dp/039333810X" target="_blank">The Elegant Universe</a></em> --- Brian Greene
 <br>
-<em><a href="https://abookapart.com/products/javascript-for-web-designers" target="_blank">JavaScript for Web Designers</a></em> --- Mat Marquis
+<em><a href="https://toolsoftitans.com/" target="_blank">Tools of Titans</a></em> --- Tim Ferriss
 
 <h2>Let's work together:</h2>
 
