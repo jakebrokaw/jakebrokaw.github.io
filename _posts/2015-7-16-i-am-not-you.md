@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am not you
+title: I Am Not You
 excerpt_separator: <!--more-->
 ---
 
