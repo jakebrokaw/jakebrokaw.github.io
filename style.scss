@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 38px;
   a {
     color: $darkerGray;
   }
@@ -64,7 +64,7 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 26px;
 
   @include mobile {
     font-size: 22px;
@@ -77,11 +77,11 @@ h2 {
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 20px;
   color: $gray;
 }
 
@@ -94,7 +94,7 @@ p {
   font-size: 20px;
 
   @include mobile {
-    font-size: 18px;
+    font-size: 16px;
   }
 
 }
@@ -340,6 +340,10 @@ nav {
 
 .green-check {
   color: green;
+}
+
+.sub-bullet {
+  margin-left: 25px;
 }
 
 .footnote {
