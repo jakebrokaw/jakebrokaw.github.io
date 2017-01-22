@@ -100,10 +100,10 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $pink;
   text-decoration: none;
 	cursor: pointer;
-  // font-weight: 400;
+  font-weight: 400;
   &:hover, &:active {
     text-decoration: line-through;
   }
@@ -270,7 +270,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $darkGray;
     }
   }
 }
