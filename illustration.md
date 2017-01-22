@@ -15,16 +15,16 @@ Would you like to add your pet's face here (and on your wall) next? <a href="mai
     <img src="{{ site.baseurl }}/images/illustration/chai.png" alt="Chai Illustration">
   </div>
   <div class="column illustrations">
-    <img src="{{ site.baseurl }}/images/illustration/abu-framed.jpg" alt="Abu Framed Illustration">
-  </div>
-  <div class="column illustrations">
-    <img src="{{ site.baseurl }}/images/illustration/chai-framed.jpg" alt="Chai Framed Illustration">
-  </div>
-  <div class="column illustrations">
     <img src="{{ site.baseurl }}/images/illustration/gus.png" alt="Gus Illustration">
   </div>
   <div class="column illustrations">
     <img src="{{ site.baseurl }}/images/illustration/gandalf.png" alt="Gandalf Illustration">
+  </div>
+  <div class="column illustrations">
+    <img src="{{ site.baseurl }}/images/illustration/sancho.png" alt="Sancho Illustration">
+  </div>
+  <div class="column illustrations">
+    <img src="{{ site.baseurl }}/images/illustration/cici.png" alt="Cici Illustration">
   </div>
 </div>
 
