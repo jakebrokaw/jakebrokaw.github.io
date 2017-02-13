@@ -191,11 +191,12 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 20px 50px;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
+    padding: 20px 10px;
   }
 }
 
@@ -311,9 +312,43 @@ nav {
   }
 }
 
+.padding-none {
+  padding: 0 !important;
+}
+
 .illustrations {
   margin-bottom: 15px;
   padding-left: 0px !important;
+}
+
+.border--lightgray {
+  border: 5px $lightGray solid;
+}
+
+.screen-gifs {
+  margin: 30px auto;
+  border: $lightGray 5px solid;
+  border-top: $lightGray 50px solid !important;
+  background-color: $lightGray;
+  padding: 0;
+}
+
+.browser-buttons {
+  margin: -50px auto auto 5px;
+  padding: 8px 0;
+  display: block;
+  width: 50px;
+  height: auto;
+
+  @include mobile {
+    width: 25px;
+    padding: 0;
+  }
+
+}
+
+.design-item {
+  margin-bottom: 30px;
 }
 
 .nav-active {

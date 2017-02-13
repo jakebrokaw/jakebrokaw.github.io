@@ -3,7 +3,7 @@ layout: page
 title: ILLUSTRATION
 ---
 
-<h2>Pet Portraits</h2>
+<h1>Pet Portraits</h1>
 
 Would you like to add your pet's face here (and on your wall) next? <a href="mailto:jacobrokaw@gmail.com?subject=Pet Portrait"> Shoot me an email to get started!</a>
 
@@ -31,7 +31,7 @@ Would you like to add your pet's face here (and on your wall) next? <a href="mai
   </div>
 </div>
 
-<h2>Robots</h2>
+<h1>Robots</h1>
 
 Created these for a project I was working on with my wife. These are some of my favorites.
 
