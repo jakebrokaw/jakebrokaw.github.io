@@ -53,7 +53,7 @@ title: DESIGN
     </div>
     <p><strong>Problems:</strong> This page didn't have a section for Add-Ons or HIPAA/Enterprise, so I was asked to design those sections. I was also asked to redesign the FAQ section of this page in a way that consolidated most of the text unless the user wanted to see a specific answer.</p>
     <p><strong>Solutions:</strong> I started by adding a stick sub-navigation to help the user know where they were on the page. I designed the Add-Ons section to reflect a similar section in our app. I wanted to make sure we didn't overload the user with text, so I created toggle boxes to show and hide content based on what was selected. Similarly, I then implemented an accordion-style list for the FAQ section.</p>
-    <p><a href="https:www.formstack.com/templates" target="_blank">View Page</a></p>
+    <p><a href="https:www.formstack.com/pricing" target="_blank">View Page</a></p>
   </div>
   <div class="column padding-none design-item">
     <h3><strong>OUR Rescue Fundraising Poster // Design & Layout</strong></h3>
