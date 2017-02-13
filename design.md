@@ -44,7 +44,7 @@ title: DESIGN
     <p><a href="https:www.formstack.com/templates" target="_blank">View Page</a></p>
   </div>
   <div class="column padding-none design-item">
-    <h3><strong>Formstack Pricing Page // Redesign & Development</strong></h3>
+    <h3><strong>Formstack Pricing Page // Partial Redesign & Development</strong></h3>
     <div class="screen-gifs">
       <span class="browser-buttons">
         <img src="{{ site.baseurl }}/images/design/browser-buttons.png" alt="Browser Buttons">
