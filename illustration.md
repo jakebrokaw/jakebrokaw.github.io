@@ -12,6 +12,9 @@ Would you like to add your pet's face here (and on your wall) next? <a href="mai
     <img src="{{ site.baseurl }}/images/illustration/abu.png" alt="Abu Illustration">
   </div>
   <div class="column illustrations">
+    <img src="{{ site.baseurl }}/images/illustration/lily.jpg" alt="Lily Illustration">
+  </div>
+  <div class="column illustrations">
     <img src="{{ site.baseurl }}/images/illustration/chai.png" alt="Chai Illustration">
   </div>
   <div class="column illustrations">

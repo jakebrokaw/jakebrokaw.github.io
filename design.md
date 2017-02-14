@@ -40,7 +40,7 @@ title: DESIGN
       <img src="{{ site.baseurl }}/images/design/templates.gif" alt="FS Templates Redesign and Development">
     </div>
     <p><strong>Problems:</strong> We needed a way to easily show all of our form templates. We also needed to give the user a preview of the template without slowing the page down while the browser loads all of the thumbnails.</p>
-    <p><strong>Solutions:</strong> I used a lazy load method to only load the images as the user scrolls down the page. To test a template, the user just has to click on the thumbnail and a preview window opens up with a functioning template.</p>
+    <p><strong>Solutions:</strong> I used a lazy load method to load only the images that were in view; as the user scrolls the thumbnails are then loaded. To test a template, the user just has to click on the thumbnail and a preview window opens up with a functioning template.</p>
     <p><a href="https:www.formstack.com/templates" target="_blank">View Page</a></p>
   </div>
   <div class="column padding-none design-item">
