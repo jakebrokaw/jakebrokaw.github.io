@@ -99,10 +99,9 @@ p {
 }
 
 a {
-  color: $pink;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
-  font-weight: 400;
   &:hover, &:active {
     text-decoration: line-through;
   }
