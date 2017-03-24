@@ -12,10 +12,13 @@ Would you like to add your pet's face here (and on your wall) next? <a href="mai
     <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/abu.png" alt="Abu Illustration">
   </div>
   <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/lily.jpg" alt="Lily Illustration">
+    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/luna.png" alt="Luna Illustration">
   </div>
   <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/lola.jpg" alt="Lola Illustration">
+    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/lily.png" alt="Lily Illustration">
+  </div>
+  <div class="column illustrations">
+    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/lola.png" alt="Lola Illustration">
   </div>
   <div class="column illustrations">
     <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/chai.jpg" alt="Chai Illustration">
@@ -30,10 +33,16 @@ Would you like to add your pet's face here (and on your wall) next? <a href="mai
     <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/gandalf.png" alt="Gandalf Illustration">
   </div>
   <div class="column illustrations">
+    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/xander.png" alt="Xander Illustration">
+  </div>
+  <div class="column illustrations">
     <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/sancho.png" alt="Sancho Illustration">
   </div>
   <div class="column illustrations">
     <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/cici.png" alt="Cici Illustration">
+  </div>
+  <div class="column illustrations">
+    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/marvin.png" alt="Marvin Illustration">
   </div>
 </div>
 

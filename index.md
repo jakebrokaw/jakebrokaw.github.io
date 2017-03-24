@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![jake-on-the-coast]({{ site.baseurl }}/images/jake-coast-2.jpg)
+![jake-on-the-coast]({{ site.baseurl }}/images/jake-coast-2.jpg){: .homepage-image}
 *Photo by <a href="http://www.josephtatum.com" target="_blank">Joseph Tatum</a>
 {: .footnote }
 
