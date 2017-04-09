@@ -143,7 +143,17 @@ img {
 }
 
 img.homepage-image {
-  width: 100% !important;
+  height: 200px;
+  width: auto;
+  border-radius: 50%;
+  border: 5px solid $lightGray;
+
+  @include mobile {
+    padding-left: auto;
+    padding-right: auto;
+    height: 150px;
+  }
+
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -421,6 +431,14 @@ nav {
     display: block;
   }
 
+}
+
+.mobile-text-center {
+
+  @include mobile {
+    text-align: center;
+  }
+  
 }
 
 .footer-coffee {
