@@ -11,7 +11,7 @@ I'm a web designer and front-end developer at <a href="https://www.formstack.com
 
 <h2>Currently reading:</h2>
 
-<em><a href="https://www.amazon.com/Elegant-Universe-Superstrings-Dimensions-Ultimate/dp/039333810X" target="_blank">The Elegant Universe</a></em> --- Brian Greene
+<em><a href="https://www.amazon.com/Briefer-History-Time-Special-Science/dp/0553804367/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1491770045&sr=8-1" target="_blank">A Briefer History of Time</a></em> --- Stephen Hawking 
 <br>
 <em><a href="https://toolsoftitans.com/" target="_blank">Tools of Titans</a></em> --- Tim Ferriss
 
