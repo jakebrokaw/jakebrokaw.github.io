@@ -2,8 +2,7 @@
 layout: default
 ---
 <div class="mobile-text-center">
-<img src="/images/jake_headshot_new_large1.jpg" alt="Jake Brokaw Headshot" class="homepage-image">
-<!-- ![jake-on-the-coast]({{ site.baseurl }}/images/jake_headshot_new_large1.png){: .homepage-image text-center} -->
+  <img src="/images/jake_headshot_new_large1.jpg" alt="Jake Brokaw Headshot" class="homepage-image">
 </div>
 
 <h1>Hey there.</h1>
