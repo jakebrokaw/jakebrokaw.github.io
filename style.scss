@@ -44,6 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.7;
   margin: 1.5rem 0 15px;
   padding: 0;
+  font-weight: 600;
 
   @include mobile {
     line-height: 1.4;
@@ -247,8 +248,8 @@ img.homepage-image {
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
+  font-weight: 400;
+  font-size: 30px;
   letter-spacing: 1px;
 }
 
@@ -265,7 +266,7 @@ img.homepage-image {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $opensans;
   font-size: 18px;
 
   @include mobile {
@@ -279,7 +280,7 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
+    font-weight: 500;
     letter-spacing: 1px;
 
     @include mobile {

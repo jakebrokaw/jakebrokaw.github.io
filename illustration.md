@@ -5,7 +5,7 @@ title: ILLUSTRATION
 
 <h1>Pet Portraits</h1>
 
-Would you like to add your pet's face here (and on your wall) next? <a href="mailto:jacobrokaw@gmail.com?subject=Pet Portrait"> Shoot me an email to get started!</a>
+<p>I create custom pet portraits for the furry friends in all of our lives. Would you like to add your pet's face here (and on your wall) next? <a href="https://www.etsy.com/shop/ChaibuStudio" target="_blank">Visit my Etsy shop</a> to get yours!</p>
 
 <div class="row small-up-1 medium-up-2">
   <div class="column illustrations">
