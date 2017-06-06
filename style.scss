@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.7;
   margin: 1.5rem 0 15px;
   padding: 0;
-  font-weight: 600;
+  font-weight: 700;
 
   @include mobile {
     line-height: 1.4;
@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 42px;
+  font-size: 38px;
   a {
     color: $darkGray;
   }
@@ -65,7 +65,7 @@ h1 {
 }
 
 h2 {
-  font-size: 32px;
+  font-size: 30px;
 
   @include mobile {
     font-size: 22px;
@@ -247,8 +247,8 @@ img.homepage-image {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 400;
+  font-family: $opensans;
+  font-weight: 800;
   font-size: 30px;
   letter-spacing: 1px;
 }
@@ -280,7 +280,7 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: 1px;
 
     @include mobile {
