@@ -3,7 +3,7 @@ layout: page
 title: ILLUSTRATION
 ---
 
-<h1>Pet Portraits</h1>
+<h1>🐶 Pet Portraits</h1>
 
 <p>I create custom pet portraits for the furry friends in all of our lives. Would you like to add your pet's face here (and on your wall) next? <a href="https://www.etsy.com/shop/ChaibuStudio" target="_blank">Visit my Etsy shop</a> to get yours!</p>
 
@@ -46,7 +46,7 @@ title: ILLUSTRATION
   </div>
 </div>
 
-<h1>Robots</h1>
+<h1>🤖 Robots</h1>
 
 Created these for a project I was working on with my wife. These are some of my favorites.
 

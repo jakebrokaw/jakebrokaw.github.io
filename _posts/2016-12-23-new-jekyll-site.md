@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating a New Website With GitHub Pages and Jekyll
+title: 💻 Creating a New Website With GitHub Pages and Jekyll
 comments: true
 ---
 

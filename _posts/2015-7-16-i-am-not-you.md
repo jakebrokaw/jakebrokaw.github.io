@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Am Not You
+title: 🤷‍♂️ I Am Not You
 excerpt_separator: <!--more-->
 ---
 
@@ -25,6 +25,7 @@ This is slightly insane because, when I actually think about it, I really like m
 
 <br>
 ![I am not you]({{ site.baseurl }}/images/blog/i-am-not-you.jpg)
+<br>
 <br>
 
 Despite all these things that are supposed to make me happy, I still find myself with a great sense of discontentment. No matter how good I have it, I still want what others have and I want to do what they do. Don’t get me wrong, I think it’s super valuable to read about someone else’s struggles and how they overcame them somehow. And I’m definitely not just going to stop reading all these great articles. Most of the things that I now enjoy about my life actually came from some conscious change I made in the past.
