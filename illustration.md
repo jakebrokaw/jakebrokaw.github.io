@@ -3,9 +3,18 @@ layout: page
 title: ILLUSTRATION
 ---
 
+<h1>😸 chaibu studio</h1>
+
+<p>My wife and I run a small studio that sells quirky, minimal designs and prints. <a href="https://www.etsy.com/shop/ChaibuStudio" target="_blank">Visit our shop</a> if you want some new wall art or a custom illustration of your pet (see below)!</p>
+
+
+  <div class="image--medium">
+    <img src="{{ site.baseurl }}/images/illustration/chaibu.png" alt="chaibu logo">
+  </div>
+
 <h1>🐶 Pet Portraits</h1>
 
-<p>I create custom pet portraits for the furry friends in all of our lives. Would you like to add your pet's face here (and on your wall) next? <a href="https://www.etsy.com/shop/ChaibuStudio" target="_blank">Visit my Etsy shop</a> to get yours!</p>
+<p>I create custom pet portraits for the furry friends in all of our lives. If you'd like to add your pet's face here (and on your wall) next, <a href="https://www.etsy.com/shop/chaibustudio?section_id=21508027" target="_blank">visit our shop</a> to get started!</p>
 
 <div class="row small-up-1 medium-up-2">
   <div class="column illustrations">
