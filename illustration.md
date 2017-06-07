@@ -9,7 +9,7 @@ title: ILLUSTRATION
 
 
   <div class="image--medium">
-    <img src="{{ site.baseurl }}/images/illustration/chaibu.png" alt="chaibu logo">
+    <a href="https://www.etsy.com/shop/ChaibuStudio" target="_blank"><img src="{{ site.baseurl }}/images/illustration/chaibu.png" alt="chaibu logo"></a>
   </div>
 
 <h1>🐶 Pet Portraits</h1>
