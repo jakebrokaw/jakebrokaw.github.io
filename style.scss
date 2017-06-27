@@ -98,17 +98,24 @@ p {
     font-size: 16px;
   }
 
+  a {
+    background-image: $blueGradient;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    -ms-text-fill-color: transparent;
+    background-clip: text;
+    text-decoration: none;
+  	cursor: pointer;
+    font-weight: 400;
+  }
+
 }
 
 a {
-  color: $blue;
-  text-decoration: none;
-	cursor: pointer;
 
   &:hover, &:active {
     text-decoration: line-through;
   }
-
 }
 
 ul, ol {
@@ -146,6 +153,7 @@ img {
   max-width: 100%;
 }
 
+
 img.homepage-image {
   height: 200px;
   width: auto;
@@ -159,6 +167,34 @@ img.homepage-image {
   }
 
 }
+
+// NEW GRADIENT BORDER 
+// .homepage-image {
+//   height: 200px;
+//   width: auto;
+//   border-radius: 50%;
+//   position: relative;
+//   background: $blueGradient;
+//   background-clip: padding-box;
+//   padding: 8px;
+//
+//   &::after {
+//     position: absolute;
+//     top: -4px; bottom: -4px;
+//     left: -4px; right: -4px;
+//     background: $blueGradient;
+//     content: '';
+//     z-index: -1;
+//   }
+//
+//
+//   @include mobile {
+//     padding-left: auto;
+//     padding-right: auto;
+//     height: 150px;
+//   }
+//
+// }
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
@@ -253,6 +289,13 @@ img.homepage-image {
   font-weight: 800;
   font-size: 30px;
   letter-spacing: 1px;
+
+  a{
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
 }
 
 .site-description {
@@ -325,6 +368,14 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+    background-image: $blueGradient;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    -ms-text-fill-color: transparent;
+    background-clip: text;
+    text-decoration: none;
+  	cursor: pointer;
+    font-weight: 700;
   }
 }
 
@@ -339,6 +390,22 @@ nav {
 
 .border--lightgray {
   border: 5px $lightGray solid;
+}
+
+.border--blueGradient {
+  position: relative;
+  background: $blueGradient;
+  background-clip: padding-box;
+  padding: 10px;
+
+  &::after {
+    position: absolute;
+    top: -4px; bottom: -4px;
+    left: -4px; right: -4px;
+    background: $blueGradient;
+    content: '';
+    z-index: -1;
+  }
 }
 
 .screen-gifs {

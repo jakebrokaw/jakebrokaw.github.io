@@ -3,7 +3,7 @@ layout: page
 title: ILLUSTRATION
 ---
 
-<h1>😸 chaibu studio</h1>
+<h1>😸 Chaibu Studio</h1>
 
 <p>My wife and I run a small studio that sells quirky, minimal designs and prints. <a href="https://www.etsy.com/shop/ChaibuStudio" target="_blank">Visit our shop</a> if you want some new wall art or a custom illustration of your pet (see below)!</p>
 
