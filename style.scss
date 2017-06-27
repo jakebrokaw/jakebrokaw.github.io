@@ -121,6 +121,15 @@ a {
   }
 }
 
+
+h1 {
+  a{
+    &:hover{
+      text-decoration: none;
+    }
+  }
+}
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
@@ -382,7 +391,13 @@ nav {
     text-decoration: none;
   	cursor: pointer;
     font-weight: 700;
+
+    &:hover {
+      text-decoration: line-through;
+    }
+
   }
+  
 }
 
 .padding-none {
