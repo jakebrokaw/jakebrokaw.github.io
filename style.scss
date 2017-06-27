@@ -168,7 +168,7 @@ img.homepage-image {
 
 }
 
-// NEW GRADIENT BORDER 
+// NEW GRADIENT BORDER
 // .homepage-image {
 //   height: 200px;
 //   width: auto;
@@ -390,6 +390,7 @@ nav {
 
 .border--lightgray {
   border: 5px $lightGray solid;
+  border-radius: 10px;
 }
 
 .border--blueGradient {
