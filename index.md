@@ -12,7 +12,7 @@ layout: default
 <br/>
 <h1>📚 Currently reading</h1>
 
-<p><em><a href="https://www.amazon.com/Briefer-History-Time-Special-Science/dp/0553804367/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1491770045&sr=8-1" target="_blank">A Briefer History of Time</a></em> — Stephen Hawking
+<p><em><a href="https://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636024" target="_blank">Waking Up</a></em> — Sam Harris
 <br/>
 <em><a href="https://toolsoftitans.com/" target="_blank">Tools of Titans</a></em> — Tim Ferriss</p>
 <br/>
