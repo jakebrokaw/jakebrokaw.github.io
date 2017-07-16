@@ -5,7 +5,7 @@ title: ILLUSTRATION
 
 <h1>😸 Chaibu Studio</h1>
 
-<p>My wife and I run a small studio that sells quirky, minimal designs and prints. <a href="https://www.etsy.com/shop/ChaibuStudio" target="_blank">Visit our shop</a> if you want some new wall art or a custom illustration of your pet (see below)!</p>
+<p>My wife and I run a small <a href="https://www.etsy.com/shop/ChaibuStudio" target="_blank">studio</a> that sells quirky, minimal designs and prints. Visit our shop if you want some new wall art or a custom illustration of your pet (see below)!</p>
 
 
   <div class="image--medium">
@@ -14,7 +14,7 @@ title: ILLUSTRATION
 
 <h1>🐶 Pet Portraits</h1>
 
-<p>I create custom pet portraits for the furry friends in all of our lives. If you'd like to add your pet's face here (and on your wall) next, <a href="https://www.etsy.com/shop/chaibustudio?section_id=21508027" target="_blank">visit our shop</a> to get started!</p>
+<p>I create custom pet portraits for the furry friends in all of our lives. If you'd like to add your pet's face here (and on your wall) next, visit our <a href="https://www.etsy.com/shop/chaibustudio?section_id=21508027" target="_blank">shop</a> to get started!</p>
 
 <div class="row small-up-1 medium-up-2">
   <div class="column illustrations">

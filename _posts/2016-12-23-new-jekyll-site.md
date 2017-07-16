@@ -52,7 +52,7 @@ You should then see your changes when you refresh your _username.github.io_ page
 
 <h2 class="blog-subhead">Pointing an existing domain to your GitHub Pages site:</h2>
 
-Make sure you <a href="https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/" target="_target">add a custom domain name</a> to your GitHub Pages site. You'll also want to add your domain to the CNAME file in the root directory of your site. For example, this is the only line of code in my CNAME file:
+Make sure you add a <a href="https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/" target="_target"> custom domain name</a> to your GitHub Pages site. You'll also want to add your domain to the CNAME file in the root directory of your site. For example, this is the only line of code in my CNAME file:
 
 {% highlight ruby %}
 www.jacobrokaw.com
