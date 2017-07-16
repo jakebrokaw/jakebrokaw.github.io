@@ -95,7 +95,7 @@ p {
   font-size: 20px;
 
   @include mobile {
-    font-size: 16px;
+    font-size: 17px;
   }
 
   a {
@@ -103,11 +103,13 @@ p {
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
     -ms-text-fill-color: transparent;
+    -o-text-fill-color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -ms-background-clip: text;
-    text-decoration: none;
+    -o-background-clip: text;
+    display: inline-block;
   	cursor: pointer;
     font-weight: 400;
   }
