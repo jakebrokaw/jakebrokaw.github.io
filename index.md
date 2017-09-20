@@ -4,7 +4,7 @@ layout: default
 <div class="index-container">
 
 <div class="mobile-text-center">
-  <img src="/images/jake_headshot_new_large1.jpg" alt="Jake Brokaw Headshot" class="homepage-image">
+  <img src="/images/jake_headshot_new_large1.jpg" alt="Jake Brokaw" class="homepage-image">
 </div>
 
 <h1>👋 Hey, I'm Jake.</h1>

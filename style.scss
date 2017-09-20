@@ -99,17 +99,18 @@ p {
   }
 
   a {
-    background: $blueGradient;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-    -ms-text-fill-color: transparent;
-    -o-text-fill-color: transparent;
-    background-clip: text;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -ms-background-clip: text;
-    -o-background-clip: text;
-    display: inline-block;
+    // background: $blueGradient;
+    // -webkit-text-fill-color: transparent;
+    // -moz-text-fill-color: transparent;
+    // -ms-text-fill-color: transparent;
+    // -o-text-fill-color: transparent;
+    // background-clip: text;
+    // -webkit-background-clip: text;
+    // -moz-background-clip: text;
+    // -ms-background-clip: text;
+    // -o-background-clip: text;
+    // display: inline-block;
+    color: $blue;
   	cursor: pointer;
     font-weight: 400;
   }
@@ -387,15 +388,16 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
-    background-image: $blueGradient;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-    -ms-text-fill-color: transparent;
-    background-clip: text;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -ms-background-clip: text;
-    text-decoration: none;
+    // background-image: $blueGradient;
+    // -webkit-text-fill-color: transparent;
+    // -moz-text-fill-color: transparent;
+    // -ms-text-fill-color: transparent;
+    // background-clip: text;
+    // -webkit-background-clip: text;
+    // -moz-background-clip: text;
+    // -ms-background-clip: text;
+    // text-decoration: none;
+    color: $blue;
   	cursor: pointer;
     font-weight: 700;
 
