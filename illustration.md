@@ -1,64 +1,40 @@
 ---
 layout: page
-title: ILLUSTRATION
+title: Illustration
 ---
 
-<h1>😸 Chaibu Studio</h1>
-
-<p>My wife and I run a small <a href="https://www.etsy.com/shop/ChaibuStudio" target="_blank">studio</a> that sells quirky, minimal designs and prints. Visit our shop if you want some new wall art or a custom illustration of your pet (see below)!</p>
-
-
-  <div class="image--medium">
-    <a href="https://www.etsy.com/shop/ChaibuStudio" target="_blank"><img src="{{ site.baseurl }}/images/illustration/chaibu.png" alt="chaibu logo"></a>
+<div class="row">
+  <div class="medium-12 columns">
+    <h1>😸 Chaibu Studio</h1>
+    <p>My wife and I run a <a href="https://www.etsy.com/shop/ChaibuStudio" target="_blank">small studio</a> that sells quirky, minimal designs and prints. Visit our shop if you want some new wall art or a custom illustration of your pet (see below)!</p>
+    <div class="image--medium">
+      <a href="https://www.etsy.com/shop/ChaibuStudio" target="_blank"><img src="{{ site.baseurl }}/images/illustration/chaibu.png" alt="chaibu logo"></a>
+    </div>
   </div>
-
-<h1>🐶 Pet Portraits</h1>
-
-<p>I create custom pet portraits for the furry friends in all of our lives. If you'd like to add your pet's face here (and on your wall) next, visit our <a href="https://www.etsy.com/shop/chaibustudio?section_id=21508027" target="_blank">shop</a> to get started!</p>
-
-<div class="row small-up-1 medium-up-2">
-  <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/abu.png" alt="Abu Illustration">
-  </div>
-  <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/luna.png" alt="Luna Illustration">
-  </div>
-  <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/lily.png" alt="Lily Illustration">
-  </div>
-  <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/lola.png" alt="Lola Illustration">
-  </div>
-  <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/chai.jpg" alt="Chai Illustration">
-  </div>
-  <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/ronnie.jpg" alt="Ronnie Illustration">
-  </div>
-  <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/gus.png" alt="Gus Illustration">
-  </div>
-  <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/gandalf.png" alt="Gandalf Illustration">
-  </div>
-  <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/xander.png" alt="Xander Illustration">
-  </div>
-  <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/sancho.png" alt="Sancho Illustration">
-  </div>
-  <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/cici.png" alt="Cici Illustration">
-  </div>
-  <div class="column illustrations">
-    <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/marvin.png" alt="Marvin Illustration">
+</div>
+<div class="row">
+  <div class="medium-12 columns">
+    <h1>🐶 Pet Portraits</h1>
+    <p>I create custom pet portraits for the furry friends in all of our lives. If you'd like one of your favorite furry pal, <a href="https://www.etsy.com/shop/chaibustudio?section_id=21508027" target="_blank">visit our shop</a> to get started!</p>
+    <div class="row small-up-1 medium-up-2">
+      <div class="column illustrations">
+        <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/misty.png" alt="Abu Illustration">
+      </div>
+      <div class="column illustrations">
+        <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/ceecee.png" alt="Luna Illustration">
+      </div>
+      <div class="column illustrations">
+        <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/ballard.png" alt="Abu Illustration">
+      </div>
+      <div class="column illustrations">
+        <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/sancho.png" alt="Luna Illustration">
+      </div>
+    </div>
   </div>
 </div>
 
-<h1>🤖 Robots</h1>
-
+<!-- <h1>🤖 Robots</h1>
 Created these for a project I was working on with my wife. These are some of my favorites.
-
 <div class="row small-up-2 medium-up-3">
   <div class="column illustrations">
     <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/robots/016.png" alt="Robot Illustration">
@@ -96,6 +72,6 @@ Created these for a project I was working on with my wife. These are some of my 
   <div class="column illustrations">
     <img class="border--lightgray" src="{{ site.baseurl }}/images/illustration/robots/033.png" alt="Robot Illustration">
   </div>
-</div>
+</div> -->
 
-[BACK TO TOP](#top){: .mobile-only }
+<!-- [BACK TO TOP](#top){: .mobile-only } -->

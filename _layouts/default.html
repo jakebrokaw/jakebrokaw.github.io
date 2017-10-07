@@ -37,26 +37,30 @@
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
+    <div id="main" role="main">
+      <div class="row">
+        <div class="medium-7 columns medium-centered">
+          {{ content }}
+        </div>
+      </div>
     </div>
 
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          <a href="mailto:{{ site.footer-links.email }}"><img class="footer-img" src="/images/footer/email.svg" alt="email icon"></a>
-          <a href="https://twitter.com/{{ site.footer-links.twitter }}"><img class="footer-img" src="/images/footer/twitter.svg" alt="twitter icon"></a>
-          <a href="https://github.com/{{ site.footer-links.github }}"><img class="footer-img" src="/images/footer/github.svg" alt="github icon"></a>
-          <a href="https://instagram.com/{{ site.footer-links.instagram }}"><img class="footer-img" src="/images/footer/instagram.svg" alt="instagram icon"></a>
+          <a href="mailto:{{ site.footer-links.email }}"><img class="footer-img" src="/images/footer/email-dark.svg" alt="email icon"></a>
+          <a href="https://twitter.com/{{ site.footer-links.twitter }}"><img class="footer-img" src="/images/footer/twitter-dark.svg" alt="twitter icon"></a>
+          <a href="https://github.com/{{ site.footer-links.github }}"><img class="footer-img" src="/images/footer/github-dark.svg" alt="github icon"></a>
+          <a href="https://instagram.com/{{ site.footer-links.instagram }}"><img class="footer-img" src="/images/footer/instagram-dark.svg" alt="instagram icon"></a>
           <p class="footer-txt">
-            Made with <img class="footer-coffee" src="/images/footer/coffee.svg" alt="coffee icon"> in Tulsa, OK
+            Made with <img class="footer-coffee" src="/images/footer/coffee-dark.svg" alt="coffee icon"> in Tulsa, OK
           </p>
           <p class="footer-txt">
-            <a href="http://www.jacobrokaw.com">Jake Brokaw</a>
+              ©&nbsp;&nbsp;<a href="http://www.jacobrokaw.com">Jake Brokaw</a>&nbsp;&nbsp;<script>document.write(new Date().getFullYear())</script>
           </p>
-          <p class="footer-txt">
+          <!-- <p class="footer-txt">
             © <script>document.write(new Date().getFullYear())</script>
-          </p>
+          </p> -->
         </footer>
       </div>
     </div>

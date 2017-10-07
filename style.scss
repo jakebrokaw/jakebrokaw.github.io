@@ -255,13 +255,13 @@ img.homepage-image {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 25px;
 }
 
 .masthead {
   padding: 15px 50px;
-  background-color: $darkGray;
-  border-bottom: 5px solid $lightGray;
+  background-color: $white;
+  // border-bottom: 5px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -283,7 +283,7 @@ img.homepage-image {
   }
 
   img {
-    border-radius: 5px;
+    // border-radius: 5px;
   }
 }
 
@@ -343,13 +343,13 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $white;
+    color: $darkGray;
     text-align: right;
     font-weight: 700;
 
     @include mobile {
       margin: 0 10px;
-      color: $white;
+      color: $darkGray;
     }
   }
 }
@@ -514,9 +514,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  background-color: $darkGray;
-  border-top: 5px solid $lightGray;
-  color: $white;
+  background-color: $white;
+  // border-top: 5px solid $lightGray;
+  color: $darkGray;
 }
 
 .footer-img {
@@ -529,10 +529,11 @@ nav {
   font-size: 12px;
   text-transform: uppercase;
   font-family: $opensans;
-  font-weight: 400;
+  font-weight: 600;
 
   a {
-    color: $white;
+    color: $darkGray;
+    font-weight: 600;
   }
 
 }

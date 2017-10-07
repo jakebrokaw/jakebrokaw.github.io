@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BLOG
+title: Blog
 ---
 
 <div class="posts">
