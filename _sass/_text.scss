@@ -1,5 +1,5 @@
 h1, h2, h3, h4, h5, h6 {
-  font-family: $montserrat;
+  font-family: $metropolis;
   line-height: 1.4;
   margin: 0 0 15px;
   padding: 0;
@@ -53,10 +53,9 @@ h4 {
 
 p {
   margin: 15px 0;
-  font-family: $worksans;
-  font-weight: 400;
+  font-family: $metropolis;
+  font-weight: 300;
   line-height: 1.5;
-  letter-spacing: -0.25px;
   font-size: 18px;
 
   @include mobile {
@@ -66,7 +65,7 @@ p {
   a {
     color: $darkerGray;
   	cursor: pointer;
-    font-weight: 700;
+    font-weight: 600;
     text-decoration: none;
     line-height: 1.2;
   }
@@ -90,7 +89,7 @@ a {
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
-  font-family: $worksans;
+  font-family: $metropolis;
   font-weight: 300;
 }
 
@@ -135,6 +134,8 @@ strong, b {
   color: $white;
   background-color: $darkerGray;
   border-radius: 0;
+  font-family: $metropolis;
+  font-weight: 500;
 
   &:hover {
     background-color: $white;
@@ -150,6 +151,8 @@ strong, b {
   color: $darkerGray;
   background-color: $white;
   border-radius: 0;
+  font-family: $metropolis;
+  font-weight: 500;
 
   &:hover {
     background-color: $darkerGray;

@@ -37,7 +37,7 @@
     font-weight: 600;
     text-decoration: none;
     display: inline-block;
-    font-family: $worksans;
+    font-family: $metropolis;
 
     &:hover {
       // text-decoration: line-through;
@@ -63,7 +63,7 @@
 
 .date {
   color: $gray;
-  font-family: $worksans;
+  font-family: $metropolis;
   font-size: 16px;
   font-weight: 400;
 }
