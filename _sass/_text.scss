@@ -1,0 +1,171 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: $gotham;
+  line-height: 1.4;
+  margin: 0 0 15px;
+  padding: 0;
+  font-weight: 700;
+
+  @include mobile {
+    line-height: 1.2;
+  }
+
+}
+
+h1 {
+  font-size: 38px;
+  a {
+    color: $darkerGray;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+      color: $darkGray;
+    }
+
+  }
+
+  @include mobile {
+    font-size: 24px;
+  }
+
+}
+
+h2 {
+  font-size: 30px;
+
+  @include mobile {
+    font-size: 22px;
+  }
+
+  &.blog-subhead {
+    margin-top: 40px;
+  }
+
+}
+
+h3 {
+  font-size: 22px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+p {
+  margin: 15px 0;
+  font-family: $worksans;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.25px;
+  font-size: 18px;
+
+  @include mobile {
+    font-size: 17px;
+  }
+
+  a {
+    color: $darkerGray;
+  	cursor: pointer;
+    font-weight: 700;
+    text-decoration: none;
+    line-height: 1.2;
+  }
+
+}
+
+.about-bio--comment {
+  color: $mediumGray;
+  display: block;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+a {
+  &:hover, &:active {
+    // text-decoration: line-through;
+    color: $blue;
+  }
+}
+
+ul, ol {
+  margin: 15px 0;
+  padding-left: 30px;
+  font-family: $robotoSlab;
+  font-weight: 300;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+ol ul, ul ol, ul ul, ol ol {
+  margin: 0;
+}
+
+ul ul, ol ul {
+  list-style-type: circle;
+}
+
+em, i {
+  font-style: italic;
+}
+
+strong, b {
+  font-weight: bold;
+}
+
+.learn-more {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 600;
+
+  &:hover {
+    cursor: pointer;
+  }
+
+}
+
+.button--ghost-white {
+  border: 1px solid $white;
+  padding: 13px 10px 10px;
+  color: $white;
+  background-color: $darkerGray;
+  border-radius: 0;
+
+  &:hover {
+    background-color: $white;
+    color: $darkerGray;
+  }
+
+
+}
+
+.button--ghost-darkergray {
+  border: 1px solid $darkerGray;
+  padding: 13px 10px 10px;
+  color: $darkerGray;
+  background-color: $white;
+  border-radius: 0;
+
+  &:hover {
+    background-color: $darkerGray;
+    color: $white;
+  }
+
+}
+
+.footer-text {
+
+  p{
+    font-size: 12px;
+  }
+
+  a {
+    font-weight: 400;
+  }
+
+}
