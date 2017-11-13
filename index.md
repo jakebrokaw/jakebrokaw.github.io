@@ -1,25 +1,25 @@
 ---
-layout: default
+layout: new_default
+title: Blog
 ---
-<!-- <div class="mobile-text-center">
-  <img src="/images/jake_headshot_new_large1.jpg" alt="Jake Brokaw" class="homepage-image">
-</div> -->
-<div class="row">
-  <div class="medium-12 columns">
-    <h1>👋 Hey there.</h1>
-    <p>I'm a web designer + developer at <a href="https://www.formstack.com" target="_blank">Formstack</a>. I also dabble in illustration. Originally from Ohio, I now take advantage of the remote life by moving from city to city, meeting new people, and having new experiences. I currently reside in Tulsa, OK with my favorite human, <a href="https://www.sparks-of-art.com" target="_blank">Sarah</a>, and our <a href="https://www.instagram.com/p/wm-FsonqsK/?taken-by=jacobrokaw" target="_blank">hyperactive cats</a>. Besides designing and coding websites, I like to spend my time reading, illustrating, exploring, and drinking a good cup of coffee/tea.</p>
-  </div>
-</div>
-<div class="row">
-  <div class="medium-12 columns">
-    <h2>📚 Currently reading:</h2>
-    <p><em><a href="https://www.amazon.com/Elegant-Universe-Superstrings-Dimensions-Ultimate/dp/039333810X" target="_blank">The Elegant Universe</a></em> — Brian Greene</p>
-    <p><em><a href="https://toolsoftitans.com/" target="_blank">Tools of Titans</a></em> — Tim Ferriss</p>
-  </div>
-</div>
-<div class="row">
-  <div class="medium-12 columns">
-    <h2>📨 Let's work together.</h2>
-    <p>If you're in need of a freelance front-end developer/designer, feel free to <a href="mailto:jacobrokaw@gmail.com">reach out</a>! Or if you'd like an illustrated portrait of your pet(s), visit the Etsy shop my wife and I run, <a href="https://www.etsy.com/shop/ChaibuStudio" target="blank">Chaibu Studio</a>.</p>
-  </div>
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <div class="date">
+        {{ post.date | date: '%d %B %Y' }}
+      </div>
+
+      <br>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More &raquo;</a>
+    </article>
+  {% endfor %}
 </div>

@@ -4,19 +4,22 @@
 //
 
 // Colors
-$blue: #3B7ED6;
+$blue: #4A90E2;
 $indianTeal: #3E5A6C;
 $lightTeal: #3CB6B3;
 $pink: #B63CA7;
 $blueGradient: linear-gradient(-227deg, #00BAEC 3%, #EE00FF 100%);
+$brightGreen: #00BCD4;
+$slate: #556d7c;
 
 
 
 // Grays
 $black: #000;
-$darkerGray: #2D2D2D;
-$darkGray: #3D3D3D;
-$gray: #6C7A85;
+$darkerGray: #1E1E1E;
+$darkGray: #393a3b;
+$mediumGray: #8F8F8F;
+$gray: #5D5D5D;
 $lightGray: #EBEFF3;
 $white: #fff;
 
@@ -26,6 +29,9 @@ $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 $robotoSlab: 'Roboto Slab', serif;
 $opensans: 'Open Sans', sans-serif;
+$archivo: 'Archivo Black Regular', sans-serif;
+$worksans: 'Work Sans', sans-serif;
+$gotham: 'Gotham', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
