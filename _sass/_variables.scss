@@ -24,14 +24,12 @@ $lightGray: #EBEFF3;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: Helvetica Neue, Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
-$robotoSlab: Roboto Slab, serif;
-$opensans: Open Sans, sans-serif;
-$archivo: Archivo Black Regular, sans-serif;
-$worksans: Work Sans, sans-serif;
-$gotham: Gotham, sans-serif;
+$helvetica: 'Helvetica', Arial, sans-serif;
+$helveticaNeue: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$georgia: 'Georgia', serif;
+$opensans: 'Open Sans', sans-serif;
+$worksans: 'Work Sans', sans-serif;
+$montserrat: 'Montserrat', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
