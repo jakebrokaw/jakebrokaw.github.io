@@ -60,9 +60,11 @@
           $(".learn-more").addClass("display-none");
           $(".about-x").removeClass("display-none");
           $(".about--learn-more").removeClass("display-none");
-          // $(".left-container").addClass("no-scroll");
-          $(".about-bio--content").fadeOut(0).fadeIn(1000);
-          $(".headshot").children("img").fadeOut(0).fadeIn(1000);
+          $(".left-container").addClass("no-scroll");
+          if ($(window).width() > 850) {
+            $(".about-bio--content").fadeOut(0).fadeIn(1000);
+            $(".headshot").children("img").fadeOut(0).fadeIn(1000);
+          }
           $(window).scroll(0,0);
         });
         $(".close").click(function() {
@@ -72,7 +74,12 @@
             $(".about-x").addClass("display-none");
             $(".about--learn-more").addClass("display-none");
             $(".left-container").removeClass("no-scroll");
-            $(".about-bio--content").fadeOut(0).fadeIn(1000);
+            if ($(window).width() > 850) {
+              $(".about-bio--content").fadeOut(0).fadeIn(1000);
+            }
+            if ($(window).width() < 850) {
+              $(".about-bio--content").fadeOut(0).fadeIn(4500);
+            }
             $(window).scroll(0,0);
           }
         });

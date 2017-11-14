@@ -78,6 +78,7 @@ body {
     overflow: scroll;
     display: flex;
     flex-direction: row;
+    min-height: 100%;
 
     .headshot {
       width: 30%;
@@ -91,8 +92,8 @@ body {
       img {
         border-radius: 50%;
         border: 5px solid $white;
-        width: 250px;
-        height: 250px;
+        width: 200px;
+        height: 200px;
       }
 
     }
@@ -257,20 +258,22 @@ body {
   .left-container,
   .right-container {
   	width: 100%;
-    flex: 2;
   }
 
   .left-container {
     padding: 5.5rem 1rem;
+    flex: 3;
   }
 
   .right-container {
     right: -100%;
     padding: 1.5rem 1rem;
+    flex: 2;
 
     &.full-width {
       right: 0;
       width: 100%;
+      min-height: 100%;
 
       .headshot {
         display: none;
@@ -292,6 +295,7 @@ body {
 
       .footer-icons {
         width: 100%;
+        margin-bottom: 50px;
       }
 
     }
