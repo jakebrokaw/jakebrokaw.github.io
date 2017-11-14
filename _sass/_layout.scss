@@ -34,7 +34,6 @@ body {
 
   &.no-scroll {
     position: fixed;
-    overflow: hidden;
   }
 
 }
@@ -51,6 +50,7 @@ body {
   width: 32%;
   position: fixed;
   right: 0;
+  top: 0;
   height: 100vh;
   -webkit-transition: width 1s; /* Safari */
   transition: width 1s;
@@ -233,6 +233,8 @@ body {
 
   .mobile-nav {
     position: fixed;
+    top: 0;
+    left: 0;
     display: flex;
     -webkit-box-orient: horizontal;
   	-webkit-box-direction: normal;
@@ -261,7 +263,7 @@ body {
   }
 
   .left-container {
-    padding: 5.5rem 1rem;
+    padding: 5.5rem 1rem 1.5rem;
     flex: 3;
   }
 
