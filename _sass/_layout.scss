@@ -107,7 +107,7 @@ body {
 
       &:hover {
         cursor: pointer;
-        color: $blue;
+        color: $mediumGray;
       }
 
     }
@@ -161,7 +161,7 @@ body {
 
     #email {
       &:hover {
-          fill: $blue;
+          fill: $mediumGray;
         }
     }
 
@@ -193,7 +193,7 @@ body {
     top: 30px;
 
     &:hover {
-      fill: $blue;
+      fill: $gray;
     }
 
   }

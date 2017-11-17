@@ -19,7 +19,7 @@ h1 {
 
     &:hover {
       text-decoration: none;
-      color: $darkGray;
+      color: $mediumGray;
     }
 
   }
@@ -82,7 +82,7 @@ p {
 a {
   &:hover, &:active {
     // text-decoration: line-through;
-    color: $blue;
+    color: $mediumGray;
   }
 }
 
