@@ -28,9 +28,10 @@ body {
   // -webkit-overflow-scrolling: touch;
   -ms-overflow-style: none;
   height: auto;
+  background-color: $offWhite;
   color: $darkerGray;
-  padding: 3.5rem 5rem 2rem 8rem;
-  width: 68%;
+  padding: 3.5rem 7rem 2rem 10rem;
+  width: 72%;
 
   &.no-scroll {
     position: fixed;
@@ -44,10 +45,10 @@ body {
 	-webkit-box-direction: normal;
 	flex-direction: column;
   justify-content: center;
-  color: $white;
+  color: $offWhite;
   background-color: $darkerGray;
   padding: 2rem 2.5rem;
-  width: 32%;
+  width: 28%;
   position: fixed;
   right: 0;
   top: 0;
@@ -113,8 +114,8 @@ body {
     }
 
     .about-bio--content {
-      width: 65%;
-      margin: 0 10% 0 3%;
+      width: 60%;
+      margin: 0 10% 0 15%;
     	-webkit-box-orient: vertical;
     	-webkit-box-direction: normal;
     	flex-direction: column;
@@ -142,9 +143,8 @@ body {
     }
 
     svg {
-      fill: $white;
+      fill: $offWhite;
       height: 25px;
-      width: auto;
     }
 
     #twitter {
@@ -161,7 +161,7 @@ body {
 
     #email {
       &:hover {
-          fill: $mediumGray;
+          fill: $blue;
         }
     }
 
@@ -173,7 +173,7 @@ body {
 
     #github {
       &:hover {
-          fill: #6cc644;
+          fill: #24292e;
         }
     }
 
@@ -191,9 +191,10 @@ body {
     position: fixed;
     left: 30px;
     top: 30px;
+    z-index: 1;
 
     &:hover {
-      fill: $gray;
+      color: tint($darkerGray, 20%);
     }
 
   }

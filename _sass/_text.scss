@@ -19,7 +19,7 @@ h1 {
 
     &:hover {
       text-decoration: none;
-      color: $mediumGray;
+      color: tint($darkerGray, 15%);
     }
 
   }
@@ -82,7 +82,7 @@ p {
 a {
   &:hover, &:active {
     // text-decoration: line-through;
-    color: $mediumGray;
+    color: $blue;
   }
 }
 
@@ -119,8 +119,8 @@ strong, b {
 
 .learn-more {
   text-transform: uppercase;
-  font-size: 16px;
-  font-weight: 600;
+  font-size: 18px;
+  font-weight: 500;
 
   &:hover {
     cursor: pointer;
@@ -128,17 +128,17 @@ strong, b {
 
 }
 
-.button--ghost-white {
-  border: 1px solid $white;
+.button--ghost-offwhite {
+  border: 1px solid $offWhite;
   padding: 13px 10px 10px;
-  color: $white;
+  color: $offWhite;
   background-color: $darkerGray;
   border-radius: 0;
   font-family: $metropolis;
   font-weight: 500;
 
   &:hover {
-    background-color: $white;
+    background-color: $offWhite;
     color: $darkerGray;
   }
 

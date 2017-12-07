@@ -41,7 +41,7 @@
 
     &:hover {
       // text-decoration: line-through;
-      color: $mediumGray;
+      color: tint($darkerGray, 15%);
     }
 
   }

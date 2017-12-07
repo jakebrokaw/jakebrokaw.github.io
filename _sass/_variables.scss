@@ -1,10 +1,16 @@
+//
+// FUNCTIONS
+//
+@function tint($color, $percentage) {
+  @return mix(white, $color, $percentage);
+}
 
 //
 // VARIABLES
 //
 
 // Colors
-$blue: #4A90E2;
+$blue: #68A1F0;
 $indianTeal: #3E5A6C;
 $lightTeal: #3CB6B3;
 $pink: #B63CA7;
@@ -21,7 +27,8 @@ $darkGray: #393a3b;
 $mediumGray: #8F8F8F;
 $gray: #5D5D5D;
 $lightGray: #EBEFF3;
-$white: #fff;
+$white: #FFFFFF;
+$offWhite: #FAFAFA;
 
 // Font stacks
 $helvetica: 'Helvetica', Arial, sans-serif;
