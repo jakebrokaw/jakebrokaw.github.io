@@ -194,7 +194,7 @@ body {
     z-index: 1;
 
     &:hover {
-      color: tint($darkerGray, 20%);
+      fill: tint($darkerGray, 15%);
     }
 
   }
