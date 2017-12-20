@@ -12,26 +12,37 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 38px;
+  font-size: 52px;
   a {
     color: $darkerGray;
     text-decoration: none;
 
     &:hover {
       text-decoration: none;
-      color: tint($darkerGray, 15%);
+      color: $offWhite;
     }
 
   }
 
   @include mobile {
-    font-size: 24px;
+    font-size: 32px;
   }
 
 }
 
 h2 {
   font-size: 30px;
+
+  a {
+    color: $darkerGray;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+      color: $offWhite;
+    }
+
+  }
 
   @include mobile {
     font-size: 22px;
@@ -45,18 +56,30 @@ h2 {
 
 h3 {
   font-size: 22px;
+
+  a {
+    color: $darkerGray;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+      color: $offWhite;
+    }
+
+  }
+
 }
 
 h4 {
   font-size: 20px;
 }
 
-p {
+p, li {
   margin: 15px 0;
   font-family: $metropolis;
   font-weight: 300;
-  line-height: 1.5;
-  font-size: 18px;
+  line-height: 1.45;
+  font-size: 20px;
 
   @include mobile {
     font-size: 17px;
@@ -72,6 +95,10 @@ p {
 
 }
 
+li {
+  margin: 8px 0;
+}
+
 .about-bio--comment {
   color: $mediumGray;
   display: block;
@@ -82,7 +109,8 @@ p {
 a {
   &:hover, &:active {
     // text-decoration: line-through;
-    color: $blue;
+    color: $offWhite;
+    background-color: $darkerGray;
   }
 }
 
@@ -119,8 +147,9 @@ strong, b {
 
 .learn-more {
   text-transform: uppercase;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 500;
+  font-family: $metropolis;
 
   &:hover {
     cursor: pointer;
@@ -138,6 +167,7 @@ strong, b {
   font-weight: 500;
 
   &:hover {
+    border: 1px solid $offWhite;
     background-color: $offWhite;
     color: $darkerGray;
   }
@@ -149,14 +179,14 @@ strong, b {
   border: 1px solid $darkerGray;
   padding: 13px 10px 10px;
   color: $darkerGray;
-  background-color: $white;
+  background-color: $offWhite;
   border-radius: 0;
   font-family: $metropolis;
   font-weight: 500;
 
   &:hover {
     background-color: $darkerGray;
-    color: $white;
+    color: $offWhite;
   }
 
 }

@@ -30,8 +30,8 @@ body {
   height: auto;
   background-color: $offWhite;
   color: $darkerGray;
-  padding: 3.5rem 7rem 2rem 10rem;
-  width: 72%;
+  padding: 3.5rem 7rem 2rem 8.75rem;
+  width: 71%;
 
   &.no-scroll {
     position: fixed;
@@ -45,10 +45,11 @@ body {
 	-webkit-box-direction: normal;
 	flex-direction: column;
   justify-content: center;
+  align-items: center;
   color: $offWhite;
   background-color: $darkerGray;
   padding: 2rem 2.5rem;
-  width: 28%;
+  width: 29%;
   position: fixed;
   right: 0;
   top: 0;
@@ -58,8 +59,14 @@ body {
   overflow: scroll;
   transition: all 1s ease;
 
-  a {
-    color: $white;
+  p > a {
+    color: $offWhite;
+
+    &:hover {
+      color: $darkerGray;
+      background-color: $offWhite;
+    }
+
   }
 
   .headshot {
@@ -103,23 +110,25 @@ body {
       position: absolute;
       right: 50px;
       top: 30px;
-      font-size: 50px;
-      font-weight: 300;
+      stroke: $offWhite;
+      padding: 10px 10px 3px;
 
       &:hover {
         cursor: pointer;
-        color: $mediumGray;
+        stroke: $darkerGray;
+        background-color: $offWhite;
       }
 
     }
 
     .about-bio--content {
-      width: 60%;
-      margin: 0 10% 0 15%;
-    	-webkit-box-orient: vertical;
+      display: flex;
+      -webkit-box-orient: vertical;
     	-webkit-box-direction: normal;
     	flex-direction: column;
-      padding-bottom: 2rem;
+      justify-content: center;
+      width: 65%;
+      margin: auto;
     }
 
     .footer-icons {
@@ -161,7 +170,7 @@ body {
 
     #email {
       &:hover {
-          fill: $blue;
+          fill: $mediumGray;
         }
     }
 
@@ -194,7 +203,7 @@ body {
     z-index: 1;
 
     &:hover {
-      fill: tint($darkerGray, 15%);
+      fill: tint($darkerGray, 10%);
     }
 
   }
@@ -241,7 +250,7 @@ body {
   	-webkit-box-direction: normal;
   	flex-direction: row;
     flex: 1;
-    background-color: $white;
+    background-color: $offWhite;
     width: 100%;
     height: 80px;
   }
@@ -289,7 +298,6 @@ body {
 
       .about-bio--content {
         width: 100%;
-        margin: 0;
       	-webkit-box-orient: vertical;
       	-webkit-box-direction: normal;
       	flex-direction: column;

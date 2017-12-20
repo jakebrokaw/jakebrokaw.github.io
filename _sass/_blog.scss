@@ -41,7 +41,7 @@
 
     &:hover {
       // text-decoration: line-through;
-      color: tint($darkerGray, 15%);
+      color: $offWhite;
     }
 
   }
@@ -55,6 +55,22 @@
       margin-left: 5px;
       transform: scaleX(0);
       transition: transform 350ms ease-in-out;
+    }
+
+  }
+
+  .blog-disclaimer {
+    font-size: 16px;
+    color: tint($darkerGray, 30%);
+
+    a {
+      color: tint($darkerGray, 30%);
+
+      &:hover {
+        background-color: tint($darkerGray, 30%);
+        color: $offWhite;
+      }
+
     }
 
   }
