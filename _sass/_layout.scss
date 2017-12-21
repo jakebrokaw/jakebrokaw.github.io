@@ -22,7 +22,6 @@ body {
 	-webkit-box-direction: normal;
 	flex-direction: column;
   -webkit-box-align: center;
-  align-items: center;
   /*this in the flex-item that we want scrollable*/
   overflow-x: auto;
   // -webkit-overflow-scrolling: touch;
@@ -131,7 +130,7 @@ body {
       margin: auto;
     }
 
-    .footer-icons {
+    .follow-links {
       width: 40%;
     }
 
@@ -306,7 +305,6 @@ body {
 
       .footer-icons {
         width: 100%;
-        margin-bottom: 50px;
       }
 
     }

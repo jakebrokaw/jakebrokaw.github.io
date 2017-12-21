@@ -38,19 +38,17 @@
           </a>
         </div>
         <div class="mobile-menu learn-more">
-          <!-- <svg id="menu" viewBox="0 0 63 35" xmlns="http://www.w3.org/2000/svg">
-            <path d="M0 0h63v8.29H0zm0 13h63v8.29H0zm0 13h63v8.29H0z" fill-rule="evenodd"/>
-          </svg> -->
           <button class="button--ghost-darkergray learn-more">&#10094; About</button>
         </div>
       </div>
       <div class="left-container close">
         {{ content }}
+        <div class="copyright-text">
+          <p>🐈 🐄 🐖 🐘 🐓 🐕 🐋 🦍 🐢 🦉 🐈</p>
+          <p>© <a href="/">Jake Brokaw</a> 2015-2017 <strong>&middot;</strong> Powered by 🌱 in Tulsa, OK</p>
+        </div>
       </div>
       <div class="right-container">
-        <!-- <div class="headshot">
-          <img src="/images/jake_headshot.jpg" alt="">
-        </div> -->
         {% include bio.html %}
       </div>
       <script type="text/javascript">
@@ -63,7 +61,6 @@
           $(".left-container").addClass("no-scroll");
           if ($(window).width() > 850) {
             $(".about-bio--content").fadeOut(0).fadeIn(1000);
-            $(".headshot").children("img").fadeOut(0).fadeIn(1000);
           }
           $(window).scroll(0,0);
         });
