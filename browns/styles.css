@@ -64,23 +64,22 @@ h1 {
 }
 
 h2 {
-  font-size: 200px;
+  font-size: 225px;
   font-weight: 700;
 }
 
 span {
-  position: absolute;
-  bottom: 32px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 700;
+  padding: 0 32px;
 }
 
 .footer--record {
-  left: 32px;
+  text-align: left;
 }
 
 .footer--created {
-  right: 32px;
+  text-align: right;
 }
 
 a {
@@ -91,31 +90,45 @@ a:hover {
   color: #EB3300;
 }
 
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  bottom: 32px;
+}
+
 
 /* MOBILE SCHIZZ */
-@media (max-width: 400px) {
+@media (max-width: 483px) {
 
-  .footer--created {
-    bottom: 16px;
-    left: 10%;
+  .footer {
+    display: block;
+    position: absolute;
+    bottom: 32px;
   }
 
+  span {
+    padding: 5px 0;
+    display: block;
+  }
+
+  .footer--created,
   .footer--record {
-    bottom: 40px;
-    left: 27%;
+    text-align: center;
   }
 
   h1 {
-    font-size: 16px;
+    font-size: 22px;
   }
 
   h2 {
-    font-size: 150px;
+    font-size: 175px;
   }
 
 }
 
-@media (max-width: 288px) {
+@media (max-width: 342px) {
 
   h2 {
     font-size: 100px;
