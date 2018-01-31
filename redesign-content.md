@@ -1,6 +1,6 @@
 ---
-layout: post
-title: I am not you. And I’m finally cool with that.
+layout: large-hero--content
+title: I Am Not You. <br>And I’m finally cool with that.
 excerpt_separator: <!--more-->
 ---
 
@@ -10,7 +10,7 @@ I’ve been reading some awesome and inspiring articles on Medium as well as oth
 Just this past week, I’ve read really great articles on how to wake up earlier, the benefits of a minimal lifestyle, how to become successful, and the importance of routines. While they have been very insightful and inspiring, they have also been challenging because I find myself wanting to be like everyone else.
 
 <blockquote>
-“To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.”
+To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.
 <br>
 <author>— Ralph Waldo Emerson</author>
 </blockquote>
@@ -34,7 +34,7 @@ Taking steps to improve your life is extremely rewarding. I’m not telling you 
 Evaluate your own life and unveil the areas that you’d actually like to improve. Also, it’s just as important to unveil the areas that you enjoy — this will remind you that your life really isn’t all that bad. If you know you love where you live, you might not get as jealous when you read about how someone’s life changed for the better now that they’re living in Italy (okay, bad example, because that’s always going to sound awesome).
 
 <blockquote>
-“To help yourself, you must be yourself. ”<br>
+To help yourself, you must be yourself. <br>
 <author>— Dave Pelzer</author>
 </blockquote>
 

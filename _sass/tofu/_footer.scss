@@ -1,0 +1,131 @@
+.tofu-footer {
+  display: flex;
+  -webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 30px 75px;
+  background-color: $offWhite;
+  color: $darkerGray;
+}
+
+.tofu-footer__content {
+  display: flex;
+  -webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	flex-direction: row;
+  width: 75%;
+
+  p {
+    margin: 0;
+  }
+
+}
+
+.tofu-footer__socials {
+  display: flex;
+  -webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	flex-direction: row;
+  width: 25%;
+  justify-content: space-between;
+}
+
+.tofu-footer__socials__item {
+  display: inline-block;
+  text-decoration: none;
+  color: $darkerGray;
+  font-family: $metropolis;
+  font-weight: 400;
+  border-bottom: 2px dotted $blue;
+
+  &:hover {
+    border-bottom: 2px solid $blue;
+  }
+
+  &:visited {
+    color: $darkerGray;
+  }
+
+}
+
+// Responsiveness
+
+@media all and (max-width:1216px) {
+  .tofu-footer {
+
+    .tofu-footer__content {
+      width: 70%;
+    }
+
+    .tofu-footer__socials {
+      width: 30%;
+    }
+
+  }
+
+}
+
+@media all and (max-width:1070px) {
+  .tofu-footer {
+
+    .tofu-footer__content {
+      width: 65%;
+    }
+
+    .tofu-footer__socials {
+      width: 35%;
+    }
+
+  }
+
+}
+
+@media all and (max-width:960px) {
+  .tofu-footer {
+    -webkit-box-orient: vertical;
+  	-webkit-box-direction: normal;
+  	flex-direction: column;
+
+    .tofu-footer__content {
+      width: 100%;
+    }
+
+    .tofu-footer__socials {
+      width: 100%;
+      margin-top: 30px;
+      justify-content: normal;
+
+      .tofu-footer__socials__item {
+        margin-right: 16px;
+      }
+
+    }
+
+  }
+
+}
+
+@media all and (max-width:908px) {
+  .tofu-footer {
+    padding-left: 50px;
+  }
+}
+
+@media all and (max-width:674px) {
+  .tofu-footer {
+    padding: 30px 15px;
+  }
+}
+
+@media all and (max-width:438px) {
+  .tofu-mobile-break {
+    display: block;
+    margin-top: 30px;
+
+    .tofu-mobile-hide {
+      display: none;
+    }
+
+  }
+}

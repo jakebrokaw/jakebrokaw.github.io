@@ -1,0 +1,78 @@
+.tofu-main__portfolio {
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  width: 85%;
+  margin: 0 auto;
+  padding-bottom: 190px;
+}
+
+.tofu-portfolio__item {
+  display: flex;
+  -webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	flex-direction: row;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.tofu-portfolio__image {
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  width: 35%;
+}
+
+.tofu-portfolio__content {
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  width: 50%;
+  margin-left: 5%;
+
+  &.right {
+    // text-align: right;
+    margin-right: 5%;
+    margin-left: 0;
+  }
+
+}
+
+.stay-tuned {
+  width: 65%;
+}
+
+@media all and (max-width:908px) {
+  .tofu-main__portfolio {
+    margin: 0;
+    padding-bottom: 24px;
+  }
+
+  .tofu-portfolio__content {
+    width: 60%;
+  }
+}
+
+@media all and (max-width:746px) {
+  .tofu-portfolio__image {
+    display: none;
+  }
+
+  .tofu-portfolio__content {
+    width: 100%;
+    margin-left: 0;
+
+    &.right {
+      margin-right: 0;
+    }
+
+  }
+
+  .stay-tuned {
+    width: 100%;
+  }
+
+}

@@ -1,0 +1,226 @@
+.tofu-hero {
+  display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	flex-direction: row;
+  overflow: hidden;
+  position: relative;
+  background-color: $offWhite;
+  color: $darkerGray;
+  padding: 75px 20px 50px 75px;
+  // border-bottom: 2px dotted $blue;
+  font-family: $metropolis;
+  align-items: center;
+
+  &.full {
+    padding-bottom:50px;
+  }
+
+}
+
+.tofu-hero__title {
+  display: flex;
+  -webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	flex-direction: column;
+  -webkit-box-align: center;
+  height: auto;
+  width: 85%;
+
+  .tofu-title--primary {
+    font-size: 115px;
+    line-height: 1.1;
+
+    span {
+      font-size: 40px;
+      line-height: normal;
+    }
+
+  }
+}
+
+.tofu-hero__nav {
+  display: flex;
+  -webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	flex-direction: column;
+  -webkit-box-align: center;
+  height: auto;
+  width: 15%;
+  text-align: right;
+  position: absolute;
+  top: 30px;
+  right: 25px;
+}
+
+.tofu-hero__logo {
+  padding-right: 7px;
+  position: fixed;
+  right: 20px;
+  z-index: 500;
+
+  svg {
+    fill: $darkerGray;
+  }
+
+  &:hover {
+    svg {
+      fill: $blue;
+    }
+  }
+
+}
+
+.tofu-hero__nav__items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  -webkit-transform-origin: right top;
+  -moz-transform-origin:    right top;
+  -ms-transform-origin:     right top;
+  -o-transform-origin:      right top;
+  transform: rotate(90deg);
+  position: fixed;
+  top: 460px;
+  right: 0;
+  padding: 20px 20px 25px;
+  z-index: 500;
+  // background: $darkerGray;
+}
+
+.tofu-hero__nav__item {
+  color: $darkerGray;
+  margin-right: 30px;
+  font-size: 24px;
+  font-weight: 300;
+
+  &.end {
+    margin-right: 0px;
+  }
+
+  &:visited {
+    color: $darkerGray;
+  }
+
+}
+
+a.tofu-links--slide {
+  text-decoration: none;
+
+  span {
+    position: relative;
+  }
+
+  span:before, span:after {
+    content: '';
+    position: absolute;
+    width: 0%;
+    height: 6px;
+    top: 45%;
+    margin-top: -0.5px;
+    background: $blue;
+  }
+
+  span:before {
+    left: -4.5px;
+  }
+  span:after {
+    right: 4.5px;
+    background: $blue;
+    transition: width 0.8s cubic-bezier(0.22, 0.61, 0.36, 1);
+  }
+
+  span:hover:before {
+    background: $blue;
+    width: 115%;
+    transition: width 0.5s cubic-bezier(0.22, 0.61, 0.36, 1);
+  }
+
+  span:hover:after {
+    background: transparent;
+    width: 100%;
+    transition: 0s;
+  }
+
+}
+
+// Responsiveness
+
+@media all and (max-width:908px) {
+  .tofu-hero {
+    padding: 50px 20px 50px 50px;
+
+    .tofu-title--primary {
+      font-size: 96px;
+    }
+
+  }
+}
+
+@media all and (max-width:750px) {
+  .tofu-hero {
+    padding: 50px 20px 50px 30px;
+
+    .tofu-title--primary {
+      font-size: 88px;
+    }
+
+  }
+}
+
+@media all and (max-width:674px) {
+  .tofu-hero {
+    padding: 50px 15px;
+
+    .tofu-title--primary {
+      font-size: 80px;
+
+      span {
+        font-size: 24px;
+      }
+
+    }
+
+    .tofu-hero__logo {
+      svg {
+        height: 25px;
+      }
+    }
+
+    .tofu-hero__nav__items {
+      top: 365px
+    }
+
+    .tofu-hero__nav__item {
+      font-size: 16px;
+    }
+
+  }
+}
+
+@media all and (max-width:574px) {
+  .tofu-hero {
+    .tofu-title--primary {
+      font-size: 64px;
+    }
+  }
+}
+
+@media all and (max-width:466px) {
+  .tofu-hero {
+    .tofu-title--primary {
+      font-size: 48px;
+    }
+
+    .tofu-hero__logo {
+      svg {
+        height: 15px;
+      }
+    }
+
+    .tofu-hero__nav__items {
+      top: 355px
+    }
+
+  }
+}

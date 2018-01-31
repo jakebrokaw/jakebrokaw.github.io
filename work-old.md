@@ -1,10 +1,7 @@
 ---
-layout: new_default
-title: DESIGN
+layout: large-hero--content
+title: “Work, work, work, work, work.” <span>— Rihanna</span>
 ---
-
-<h1>Design Portfolio</h1>
-<p>Here's a selection of design projects I’ve worked on from initial concept to implementation.</p>
 
 <div class="row small-up-1 medium-up-1">
   <div class="column padding-none design-item">

@@ -1,0 +1,16 @@
+{% include header.html %}
+
+<div class="tofu-hero tofu-hero__content">
+  <div class="tofu-hero__title">
+    <h1 class="tofu-title--primary">{{ page.title }}</h1>
+  </div>
+  {% include navigation.html %}
+</div>
+<div class="tofu-main">
+  <div class="tofu-main__portfolio">
+    {{ content }}
+  </div>
+  <div class="tofu-main__bio__image"></div>
+</div>
+
+{% include footer.html %}
