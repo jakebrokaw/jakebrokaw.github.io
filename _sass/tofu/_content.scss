@@ -1,0 +1,145 @@
+.tofu-main {
+  display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	flex-direction: row;
+  position: relative;
+  background-color: $offWhite;
+  color: $darkerGray;
+  padding: 30px 30px 30px 75px;
+  font-family: $metropolis;
+  border-bottom: 1px solid $lightGray;
+
+  blockquote {
+    font-family: $source;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 40px;
+    padding: 30px 0 30px 50px;
+    width: 120%;
+
+    author {
+      font-size: 24px;
+      font-style: normal;
+    }
+
+  }
+
+}
+
+.tofu-main__content,
+.tofu-main__bio {
+  display: flex;
+  -webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	flex-direction: column;
+  position: relative;
+}
+
+.tofu-main__content {
+  width: 60%;
+}
+
+.tofu-main__bio {
+  width: 25%;
+  margin: 0 8% 0 7%;
+  padding-right: 30px;
+  position: relative;
+
+  &.tofu-main--no-bio {
+
+    .tofu-main__bio__content {
+      display: none;
+    }
+
+  }
+
+  hr {
+    width: 100%;
+  }
+
+}
+
+.tofu-main__bio__content {
+  border-left: 2px dotted $darkerGray;
+  padding-left: 30px;
+  // display: none;
+
+  p {
+    font-size: 18px;
+    font-weight: 300;
+  }
+
+}
+
+.tofu-main__bio__image {
+  background-image: url('images/facepalm--offWhite.jpg');
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  right: 88px;
+  bottom: 0;
+  height: 350px;
+  width: 300px;
+}
+
+//Responsiveness
+
+@media all and (max-width:1060px) {
+  .tofu-main__bio {
+    width: 28%;
+    margin: 0 5%;
+
+    p {
+      font-size: 16px;
+    }
+
+  }
+}
+
+@media all and (max-width:908px) {
+  .tofu-main {
+    padding-top: 0;
+    padding-bottom: 300px;
+    -webkit-box-orient: vertical;
+  	flex-direction: column;
+    padding-left: 50px;
+  }
+
+  .tofu-main__bio {
+    width: 80%;
+    display: block;
+    margin: 0 0 30px;
+    order: 1;
+
+    p {
+      font-size: 18px;
+    }
+
+  }
+  .tofu-main__content{
+    width: 80%;
+    display: block;
+    order: 2;
+  }
+}
+
+@media all and (max-width:882px) {
+  .tofu-main__bio__image {
+    height: 300px;
+    width: 150px;
+    right: inherit;
+  }
+}
+
+@media all and (max-width:750px) {
+  .tofu-main {
+    padding-left: 30px;  
+  }
+}
+
+@media all and (max-width:674px) {
+  .tofu-main {
+    padding: 0 15px 275px;
+  }
+}

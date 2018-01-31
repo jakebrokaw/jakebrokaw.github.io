@@ -10,7 +10,7 @@
 //
 
 // Colors
-$blue: #68A1F0;
+$blue: #003DFF;
 $indianTeal: #3E5A6C;
 $lightTeal: #3CB6B3;
 $pink: #EE0EE9;
@@ -23,13 +23,13 @@ $yellow: #EAFF00;
 
 // Grays
 $black: #000;
-$darkerGray: #1E1E1E;
+$darkerGray: #0F0F0F;
 $darkGray: #393a3b;
 $mediumGray: #8F8F8F;
 $gray: #5D5D5D;
 $lightGray: #CFCFCF;
 $white: #FFFFFF;
-$offWhite: #FAFAFA;
+$offWhite: #FDFDFD;
 
 // Font stacks
 $helvetica: 'Helvetica', Arial, sans-serif;
@@ -39,6 +39,7 @@ $opensans: 'Open Sans', sans-serif;
 $worksans: 'Work Sans', sans-serif;
 $montserrat: 'Montserrat', sans-serif;
 $metropolis: 'Metropolis', sans-serif;
+$source: 'Source Serif Pro', serif;
 
 // Mobile breakpoints
 @mixin mobile {
