@@ -9,7 +9,7 @@ title: “Work, work, work, work, work.” <span>— Rihanna</span>
   </div>
   <div class="tofu-portfolio__content">
     <h2>Formstack Brand <br>Design System</h2>
-    <p>I worked with the two other designers and developers on our brand design team to do a complete audit of our site, organize and create Formstack’s Brand Design System from scratch. I also <a href="https://www.instagram.com/p/BaG8lvUlkcj/?taken-by=jacobrokaw">spoke about our process</a> to the <a href="https://tulsaux.com/" target="_blank">Tulsa UX group.</a></p>
+    <p>I worked with the two other designers and developers on our brand design team to do a complete audit of our site, organize, and create Formstack’s Brand Design System from scratch. I also <a href="https://www.instagram.com/p/BaG8lvUlkcj/?taken-by=jacobrokaw">spoke about our process</a> to the <a href="https://tulsaux.com/" target="_blank">Tulsa UX group.</a></p>
     <p><a href="https://formstack.com/brand/design-system">Check it out</a></p>
   </div>
 </div>
