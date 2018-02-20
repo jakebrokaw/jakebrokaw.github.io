@@ -1,17 +1,19 @@
 {% include header.html %}
 
-<div class="tofu-hero tofu-hero__content">
-  <div class="tofu-hero__title">
-    <h1 class="tofu-title--primary">{{ page.title }}</h1>
+<div class="tofu-wrapper">
+  <div class="tofu-hero tofu-hero__content">
+    <div class="tofu-hero__title">
+      <h1 class="tofu-title--primary">{{ page.title }}</h1>
+    </div>
+    {% include navigation.html %}
   </div>
-  {% include navigation.html %}
-</div>
-<div class="tofu-main">
-  <div class="tofu-main__content">
-    {{ content }}
-  </div>
-  <div class="tofu-main__bio tofu-main--no-bio">
-    {% include bio--short.html %}
+  <div class="tofu-main">
+    <div class="tofu-main__content">
+      {{ content }}
+    </div>
+    <div class="tofu-main__bio tofu-main--no-bio">
+      {% include bio--short.html %}
+    </div>
   </div>
 </div>
 

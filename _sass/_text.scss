@@ -78,6 +78,10 @@ p, li {
   line-height: 1.6;
   font-size: 20px;
 
+  @media all and (min-width: 1685px) {
+    font-size: 24px;
+  }
+
   @include mobile {
     font-size: 17px;
   }
@@ -98,13 +102,6 @@ p, li {
 
 li {
   margin: 8px 0;
-}
-
-.about-bio--comment {
-  color: $mediumGray;
-  display: block;
-  text-transform: uppercase;
-  font-size: 16px;
 }
 
 ul, ol {

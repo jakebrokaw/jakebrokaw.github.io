@@ -8,7 +8,6 @@
   color: $darkerGray;
   padding: 0 30px 30px 75px;
   font-family: $metropolis;
-  border-bottom: 1px solid $lightGray;
 
   blockquote {
     font-family: $source;
@@ -58,6 +57,13 @@
     width: 100%;
   }
 
+}
+
+.tofu-main__bio--comment {
+  color: $mediumGray;
+  display: block;
+  text-transform: uppercase;
+  font-size: 20px;
 }
 
 .tofu-main__bio__content {

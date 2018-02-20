@@ -6,6 +6,11 @@
   width: 85%;
   margin: 0 auto;
   padding-top: 30px;
+
+  @media all and (min-width: 1685px) {
+    width: 100%;
+  }
+
 }
 
 .tofu-portfolio__item {
@@ -43,6 +48,11 @@
 
 .stay-tuned {
   width: 65%;
+
+  @media all and (min-width: 1685px) {
+    width: 100%;
+  }
+
 }
 
 @media all and (max-width:908px) {

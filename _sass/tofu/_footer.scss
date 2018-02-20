@@ -5,8 +5,14 @@
   flex-direction: row;
   justify-content: space-evenly;
   padding: 30px 75px;
-  background-color: $offWhite;
   color: $darkerGray;
+  border-top: 1px solid $lightGray;
+
+  p {
+    margin: 0;
+    font-size: 18px;
+  }
+
 }
 
 .tofu-footer__content {
@@ -15,11 +21,6 @@
 	-webkit-box-direction: normal;
 	flex-direction: row;
   width: 75%;
-
-  p {
-    margin: 0;
-  }
-
 }
 
 .tofu-footer__socials {
@@ -88,12 +89,14 @@
   	flex-direction: column;
 
     .tofu-footer__content {
+      order: 2;
       width: 100%;
     }
 
     .tofu-footer__socials {
+      order: 1;
       width: 100%;
-      margin-top: 30px;
+      margin-bottom: 30px;
       justify-content: normal;
 
       .tofu-footer__socials__item {
