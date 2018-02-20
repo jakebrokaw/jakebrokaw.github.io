@@ -63,7 +63,11 @@
   color: $mediumGray;
   display: block;
   text-transform: uppercase;
-  font-size: 20px;
+  font-size: 16px;
+
+  @media all and (min-width: 1685px) {
+    font-size: 20px;
+  }
 }
 
 .tofu-main__bio__content {
@@ -110,6 +114,11 @@
     -webkit-box-orient: vertical;
   	flex-direction: column;
     padding-left: 50px;
+
+    blockquote {
+      width: 100%;
+    }
+
   }
 
   .tofu-main__bio {
@@ -128,6 +137,7 @@
     display: block;
     order: 2;
   }
+
 }
 
 @media all and (max-width:882px) {
@@ -146,6 +156,18 @@
 
 @media all and (max-width:674px) {
   .tofu-main {
-    padding: 0 15px;
+    padding: 0 15px 15px;
+
+    blockquote {
+      font-size: 24px;
+      padding: 15px 0 15px 30px;
+
+      author {
+        font-size: 16px;
+        font-style: normal;
+      }
+
+    }
+
   }
 }
