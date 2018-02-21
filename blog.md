@@ -14,12 +14,12 @@ title: Sometimes I write sentences and share them here.
       </div>
 
       <div class="date">
-        <em>{{ post.date | date: '%d %B %Y' }}</em>
+        {{ post.date | date: '%d %B %Y' }}
       </div>
 
       <br>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read Post</a>
     </article>
   {% endfor %}
 </div>
