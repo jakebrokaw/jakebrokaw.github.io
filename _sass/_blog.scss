@@ -24,7 +24,7 @@
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 2px dotted $lightGray;
+  border-bottom: 1px dotted $lightGray;
   margin-bottom: 2rem;
 }
 
@@ -49,7 +49,7 @@
     text-decoration: none;
     display: inline-block;
     font-family: $metropolis;
-    border-bottom: 2px dotted $blue;
+    border-bottom: 1px dotted $blue;
 
     &:hover {
       border-bottom: 2px solid $blue;

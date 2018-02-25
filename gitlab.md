@@ -20,6 +20,7 @@ Jake Brokaw has spent the last three years working remotely as a Marketing Web D
 _**PLOT TWIST!**_ 💨
 
 One day, while surfing the interwebz, he was bitten by a radioactive [tanuki](https://about.gitlab.com/about/#logo)! Soon after the bite, he noticed things were...well, different. Life started to make sense again. The air was fresher, food tasted better, the sky was filled with angels singing "Don't Stop Me Now," <a href="https://www.good.is/articles/happiest-song-on-earth" target="_blank" md_>the happiest song on Earth</a>.
+One day, while surfing the interwebz, he was bitten by a radioactive [tanuki](https://about.gitlab.com/about/#logo)! Soon after the bite, he noticed things were...well, different. Life started to make sense again. The air was fresher, food tasted better, the sky was filled with angels singing "Don't Stop Me Now," <a href="https://www.good.is/articles/happiest-song-on-earth" target="_blank" md_>the happiest song on Earth</a>.
 
 For the first time, he was able to see his experiences as actual super powers he could use to save the world. It didn't matter that he had years of experience writing HTML, CSS, JavaScript, and PHP to create <a href="/work" target="_blank" md_>responsive websites and landing pages</a>. What mattered was that he would now able to use those powers to give GitLab customers (and potential customers) a smooth user experience.
 
