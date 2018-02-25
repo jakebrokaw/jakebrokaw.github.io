@@ -13,6 +13,8 @@ As with anything we do, we’re making the trip out there an adventure. We’re 
 <br>
 <br>
 
+PORTLAND! (We have an Airbnb there for a week while we explore Portland a bit and find a place to live.)
+
 I’ve visited Portland multiple times over the past couple of years for work, and Sarah first experienced it when we vacationed there for our anniversary last year. There are a million things to love about Portland, but we’re most looking forward to the hiking and camping, the delicious food, and the abundance of coffee.
 
 We’re also looking foward to the PNW climate. After spending the past three years in the sun and heat of Austin and Tulsa, our pale bodies are ready for some mild temps and the misty drizzle.
