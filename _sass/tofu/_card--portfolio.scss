@@ -1,0 +1,116 @@
+.tofu-portfolio--grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 30px;
+
+  @media all and (min-width: 1685px) {
+    width: 100%;
+  }
+
+}
+
+a.tofu-card--portfolio {
+  &:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,.1), 0 15px 35px rgba(0,0,0,.1), 0 50px 100px rgba(50,50,93,.1);
+    text-decoration: none;
+  }
+}
+
+.tofu-card--portfolio {
+  position: relative;
+  padding-left: 0;
+  padding-right: 0;
+  box-sizing: border-box;
+  width: 45%;
+  height: auto;
+  margin-right: 5%;
+  margin-bottom: 60px;
+  box-shadow: 0 2px 4px rgba(3,27,78,.2);
+  text-decoration: none;
+
+  @media all and (max-width: 850px) {
+    width: 100%;
+  }
+
+  @media all and (max-width: 530px) {
+    width: 90%;
+  }
+
+  .tofu-card__image-container {
+    height: 315px;
+    width: auto;
+    overflow: hidden;
+    background-size: cover;
+    background-position: top;
+
+    @media all and (max-width: 1020px) {
+      height: 250px;
+    }
+
+    @media all and (max-width: 850px) {
+      height: 300px;
+    }
+
+    @media all and (max-width: 576px) {
+      height: 225px;
+    }
+
+    &.design-system {
+      background-image: url("/images/formstack-design-system.jpg");
+    }
+
+    &.formstack-for-salesforce {
+      background-image: url("/images/formstack-for-salesforce.jpg");
+    }
+
+    &.formstack-support {
+      background-image: url("/images/formstack-support.jpg");
+    }
+
+    &.formstack-workflows {
+      background-image: url("/images/workflows.jpg");
+    }
+
+    &.ultimate-form-design {
+      background-image: url("/images/ultimate-form-design.jpg");
+    }
+
+    &.rebell-peppers {
+      background-image: url("/images/rebell-peppers.jpg");
+    }
+
+    &.browns {
+      background-image: url("/images/browns.jpg");
+    }
+
+    &.lyfevinyl {
+      background-image: url("/images/lyfevinyl.jpg");
+    }
+
+  }
+
+  .tofu-card__content {
+    padding: 15px 20px;
+    background-color: $blue;
+  }
+
+  .tofu-card__title,
+  .tofu-card__category {
+    color: $offWhite;
+    margin: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .tofu-card__title {
+    font-size: 18px;
+  }
+
+  .tofu-card__category {
+    font-size: 16px;
+  }
+
+}

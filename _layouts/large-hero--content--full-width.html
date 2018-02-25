@@ -1,0 +1,15 @@
+{% include header.html %}
+
+<div class="tofu-hero">
+  <div class="tofu-hero__title">
+    <h1 class="tofu-title--primary">{{ page.title }}</h1>
+  </div>
+  {% include navigation.html %}
+</div>
+<div class="tofu-main">
+  <div class="tofu-hero__content--full-width">
+    {{ content }}
+  </div>
+</div>
+
+{% include footer.html %}

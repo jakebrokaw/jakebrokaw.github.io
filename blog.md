@@ -1,6 +1,6 @@
 ---
 layout: large-hero--content
-title: Sometimes I write sentences and share them here.
+title: Sometimes I put sentences together and share them here.
 ---
 
 <div class="posts">

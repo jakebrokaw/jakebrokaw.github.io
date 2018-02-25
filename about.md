@@ -21,7 +21,7 @@ title: That introverted, pale, nerd who likes to design and code.
     <span class="tofu-main__bio--comment">
       // Personal stuff
     </span>
-    After meeting in San Fransisco, my wife and I have lived in three different states in the past three years. I love the experience of living in a city and making it home for a year before going on to explore somewhere new. My favorite nights consist of drinking hot tea and reading a good book on philosophy. My greatest weakness is rooting for the <a href="/did-the-browns-win">Cleveland Browns</a>.
+    After meeting in California, my wife and I have lived in three different states in the past four years. I love the experience of living in a city and making it home for a year before going on to explore somewhere new. My favorite nights consist of drinking hot tea and reading a good book on philosophy. My greatest weakness is rooting for the <a href="/did-the-browns-win">Cleveland Browns</a>.
   </p>
 </div>
 <p>

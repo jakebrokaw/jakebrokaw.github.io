@@ -26,6 +26,14 @@
 
 }
 
+hr {
+  width: 100%;
+  height: 1px;
+  border: 0;
+  border-top: 1px dotted $lightGray;
+  margin: 50px 0;
+}
+
 .tofu-main__content,
 .tofu-main__bio {
   display: flex;
@@ -37,6 +45,10 @@
 
 .tofu-main__content {
   width: 60%;
+}
+
+.tofu-hero__content--full-width {
+  width: 90%;
 }
 
 .tofu-main__bio {
@@ -110,7 +122,6 @@
 @media all and (max-width:908px) {
   .tofu-main {
     padding-top: 0;
-    padding-bottom: 300px;
     -webkit-box-orient: vertical;
   	flex-direction: column;
     padding-left: 50px;
