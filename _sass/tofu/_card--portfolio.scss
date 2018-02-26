@@ -45,6 +45,10 @@ a.tofu-card--portfolio {
     background-size: cover;
     background-position: top;
 
+    @media all and (max-width: 1150px) {
+      height: 290px;
+    }
+
     @media all and (max-width: 1020px) {
       height: 250px;
     }
@@ -55,6 +59,10 @@ a.tofu-card--portfolio {
 
     @media all and (max-width: 576px) {
       height: 225px;
+    }
+
+    @media all and (max-width: 410px) {
+      height: 200px;
     }
 
     &.design-system {
@@ -87,6 +95,10 @@ a.tofu-card--portfolio {
 
     &.lyfevinyl {
       background-image: url("/images/lyfevinyl.jpg");
+    }
+
+    &.webinar-lp {
+      background-image: url("/images/webinar.jpg");
     }
 
   }
