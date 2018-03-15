@@ -1,4 +1,4 @@
 ---
 layout: large-hero--main
-title: Welcome to my internet residence. I’m a web developer and designer who likes bold fonts.
+title: Hello. Welcome to my internet abode. I like to design and code. And rhyme.
 ---

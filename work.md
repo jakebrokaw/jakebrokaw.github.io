@@ -1,7 +1,6 @@
 ---
 layout: large-hero--content--full-width
-title: A Selection of Recent Web Development &amp; Design Work
+title: “Work, work, work, work, work.” <span>— Rihanna</span>
 ---
 
-## “Work, work, work, work, work.” <span>— Rihanna</span>
 {% include portfolio.html %}
