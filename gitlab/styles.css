@@ -50,6 +50,7 @@ select:hover,
 }
 
 @media (min-width: 1024px) {
+
   .row {
     max-width: 83rem;
   }
@@ -62,33 +63,43 @@ select:hover,
 }
 
 @media screen and (min-width: 1123px) {
+
   .sticky-container {
     margin-top: -332px;
   }
+
 }
 
 @media screen and (min-width: 888px) and (max-width: 1122px) {
+
   .sticky-container {
     margin-top: -500px;
   }
+
 }
 
 @media screen and (min-width: 842px) and (max-width: 887px) {
+
   .sticky-container {
     margin-top: -600px;
   }
+
 }
 
 @media screen and (min-width: 640px) and (max-width: 841px) {
+
   .sticky-container {
     margin-top: -700px;
   }
+
 }
 
 @media screen and (max-width: 639px) {
+
   .sticky-container {
     margin-top: 0px !important;
   }
+
 }
 
 .is-stuck {
@@ -100,39 +111,44 @@ select:hover,
 }
 
 @media (min-width: 640px) and (max-width: 1024px) {
+
   .is-at-bottom {
     top: 1000px !important;
   }
+
 }
 
 /* HELPERS */
 
 .margin-right-xx-small { margin-right: var(--spacing-x-small); }
-
 .margin-top-small { margin-top: var(--spacing-small); }
-
 .margin-top-medium { margin-top: var(--spacing-medium); }
-
 .margin-top-large { margin-top: var(--spacing-large); }
-
 .margin-top-x-large { margin-top: var(--spacing-x-large); }
-
 .margin-bottom-x-large { margin-bottom: var(--spacing-x-large); }
 
 @media screen and (min-width: 1024px) {
-  .line-break { display: block; }
+
+  .line-break {
+    display: block;
+  }
+
 }
 
 @media screen and (max-width: 639px) {
+
   .margin-top-large--small {
     margin-top: var(--spacing-large);
   }
+
 }
 
 @media (max-width: 1024px) {
+
   .margin-top-large--medium-down {
     margin-top: var(--spacing-large);
   }
+
 }
 
 /* SIGN UP AND THANK YOU STYLES */
@@ -182,6 +198,7 @@ select:hover,
 }
 
 @media screen and (max-width: 39.9375em) {
+
   .gl-headline--hero {
     font-size: 40px;
   }
@@ -213,9 +230,11 @@ select:hover,
 }
 
 @media screen and (max-width: 420px) {
+
   .gl-form {
     padding: var(--spacing-small);
   }
+
 }
 
 .gl-notify-label {
@@ -290,17 +309,21 @@ label > span {
 }
 
 @media (max-width: 989px) {
+
   .footer {
     padding-top: 40px;
     padding-bottom: 30px;
   }
+
 }
 
 .footer h3 {
   font-size: 24px;
 }
 
-.footer a { color: inherit;  }
+.footer a {
+  color: inherit;
+}
 
 .footer a:hover {
   color: var(--orange-light);
@@ -337,9 +360,11 @@ label > span {
 }
 
 @media (max-width: 989px) {
+
   .footer-link-holder {
     margin-bottom: 15px;
   }
+
 }
 
 /* ERROR STYLING */
