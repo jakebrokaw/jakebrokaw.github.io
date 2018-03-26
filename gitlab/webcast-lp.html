@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="UTF-8">
     <title>GitLab Webcast Landing Page</title>
@@ -8,8 +8,8 @@
     <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' rel=stylesheet />
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-2.2.4.min.js" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js" charset="utf-8"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/foundation.min.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/foundation.min.js"></script>
   </head>
 
   <body>
@@ -20,7 +20,7 @@
           <img src="images/gitlab-logo-webcast.svg" alt="GitLab Webcast Logo">
         </div>
       </div>
-      <div id="title" class="row margin-top-large">
+      <div id="headline" class="row margin-top-large">
         <div class="large-8 medium-6 columns">
           <h1 class="gl-headline gl-headline--hero">
             Top 5 Takeaways from the <span class="line-break">2018 Global Developer Survey</span>
@@ -54,40 +54,40 @@
         </div>
         <div id="form" class="large-4 medium-6 columns columns-shrink margin-top-large--small">
           <div data-sticky-container data-options="sticky_on: [medium, large]">
-            <div class="sticky" data-sticky data-top-anchor="title:top" data-btm-anchor="footer:top">
-              <form id="form" class="gl-form" action="/gitlab/thank-you" method="get">
+            <div class="sticky" data-sticky data-top-anchor="headline:top" data-btm-anchor="footer:top">
+              <form class="gl-form" action="/gitlab/thank-you" method="get">
                 <div class="row">
                   <div class="large-6 columns">
-                    <label for="POST-firstname">First Name<span>*</span></label>
-                    <input id="POST-firstname" type="text" name="fname" required>
+                    <label for="firstname">First Name<span>*</span></label>
+                    <input id="firstname" type="text" name="fname" required>
                   </div>
                   <div class="large-6 columns">
-                    <label for="POST-lastname">Last Name<span>*</span></label>
-                    <input id="POST-lastname" type="text" name="lname" required>
+                    <label for="lastname">Last Name<span>*</span></label>
+                    <input id="lastname" type="text" name="lname" required>
                   </div>
                 </div>
                 <div class="row">
                   <div class="medium-12 columns">
-                    <label for="POST-email">Email<span>*</span></label>
-                    <input id="POST-email" type="email" name="email" required>
+                    <label for="email">Email<span>*</span></label>
+                    <input id="email" type="email" name="email" required>
                   </div>
                 </div>
                 <div class="row">
                   <div class="medium-12 columns">
-                    <label for="POST-company">Company Name<span>*</span></label>
-                    <input id="POST-company" type="text" name="company" required>
+                    <label for="company">Company Name<span>*</span></label>
+                    <input id="company" type="text" name="company" required>
                   </div>
                 </div>
                 <div class="row">
                   <div class="medium-12 columns">
-                    <label for="POST-title">Job Title<span>*</span></label>
-                    <input id="POST-title" type="text" name="title" required>
+                    <label for="title">Job Title<span>*</span></label>
+                    <input id="title" type="text" name="title" required>
                   </div>
                 </div>
                 <div class="row">
                   <div class="medium-12 columns">
-                    <label for="POST-country">Country<span>*</span></label>
-                    <select id="POST-country" type="select" name="country" required>
+                    <label for="country">Country<span>*</span></label>
+                    <select id="country" name="country" required>
                       <option value="" disabled selected>Select your country</option>
                     	<option value="AF">Afghanistan</option>
                     	<option value="AX">Åland Islands</option>
@@ -343,8 +343,8 @@
                 </div>
                 <div class="row">
                   <div class="medium-12 columns">
-                    <input type="checkbox" name="notify" value="Yes">
-                    <label class="gl-notify-label" for="POST-notify">Notify me about future webcasts</label>
+                    <input id="notify" type="checkbox" name="notify" value="Yes">
+                    <label class="gl-notify-label" for="notify">Notify me about future webcasts</label>
                   </div>
                 </div>
                 <div class="row">
