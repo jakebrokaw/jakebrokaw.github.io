@@ -1,4 +1,5 @@
 /* DEFAULTS */
+
 body, p, h1, h2, h3, h4, h5, h6, li, a, span {
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -7,9 +8,8 @@ p {
   font-size: 18px;
 }
 
-/* --------------------- */
+/* VARIABLES */
 
-/* VARS */
 :root {
   /* colors */
   --white: #FFFFFF;
@@ -33,8 +33,6 @@ p {
   --radius-small: 2px;
   --radius-medium: 4px;
 }
-
-/* --------------------- */
 
 /* FOUNDATION RESETS */
 
@@ -75,11 +73,18 @@ select:hover,
   }
 }
 
-@media screen and (min-width: 640px) and (max-width: 887px) {
+@media screen and (min-width: 842px) and (max-width: 887px) {
   .sticky-container {
     margin-top: -600px;
   }
 }
+
+@media screen and (min-width: 640px) and (max-width: 841px) {
+  .sticky-container {
+    margin-top: -700px;
+  }
+}
+
 @media screen and (max-width: 639px) {
   .sticky-container {
     margin-top: 0px !important;
@@ -100,8 +105,6 @@ select:hover,
   }
 }
 
-/* --------------------- */
-
 /* HELPERS */
 
 .margin-right-xx-small { margin-right: var(--spacing-x-small); }
@@ -116,11 +119,11 @@ select:hover,
 
 .margin-bottom-x-large { margin-bottom: var(--spacing-x-large); }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 1024px) {
   .line-break { display: block; }
 }
 
-@media screen and (max-width: 39.9375em) {
+@media screen and (max-width: 639px) {
   .margin-top-large--small {
     margin-top: var(--spacing-large);
   }
@@ -132,9 +135,8 @@ select:hover,
   }
 }
 
-/* --------------------- */
+/* SIGN UP AND THANK YOU STYLES */
 
-/* EVERYTHING ELSE */
 .gl-hero {
   background-color: var(--purple);
   background-image: url('images/hero-image.jpg');
@@ -287,16 +289,16 @@ label > span {
   z-index: 9;
 }
 
-  @media (max-width: 989px) {
-    .footer {
-      padding-top: 40px;
-      padding-bottom: 30px;
-    }
+@media (max-width: 989px) {
+  .footer {
+    padding-top: 40px;
+    padding-bottom: 30px;
   }
+}
 
-  .footer h3 {
-    font-size: 24px;
-  }
+.footer h3 {
+  font-size: 24px;
+}
 
 .footer a { color: inherit;  }
 
