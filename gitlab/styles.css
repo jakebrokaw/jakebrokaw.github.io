@@ -165,6 +165,17 @@ select:hover,
   font-size: 32px
 }
 
+@media screen and (max-width: 39.9375em) {
+  .gl-headline--hero {
+    font-size: 40px;
+  }
+
+  .gl-headline--primary {
+    font-size: 28px;
+  }
+
+}
+
 .gl-label {
   padding: var(--spacing-x-small) var(--spacing-small);
   border: var(--radius-small) solid var(--white);
