@@ -1,6 +1,6 @@
 # GitLab Web Developer/Designer Project
 
-Thanks for considering my project! Here's a super quick summary of what I used to accomplish build this landing page which has  client side validation on the sign-up form.
+Thanks for considering my project! Here's a super quick summary of what I used to build this landing page which has  client side validation on the sign-up form.
 
 ## Technology Used:
 
@@ -15,8 +15,8 @@ Thanks for considering my project! Here's a super quick summary of what I used t
 
 ## Contact Information:
 
-Website: [jacobrokaw.com](http://www.jacobrokaw.com)
+Email:  [jacobrokaw@gmail.com](mailto:jacobrokaw@gmail.com)
 
-Email:   [jacobrokaw@gmail.com](mailto:jacobrokaw@gmail.com)
+Website: [jacobrokaw.com](http://www.jacobrokaw.com)
 
 Twitter: [@jacobrokaw](https://twitter.com/@jacobrokaw)
