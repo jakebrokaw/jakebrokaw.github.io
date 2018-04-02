@@ -90,11 +90,12 @@ p, li {
     color: $darkerGray;
   	cursor: pointer;
     text-decoration: none;
-    border-bottom: 1px dotted $blue;
+    border-bottom: 1.5px solid $darkerGray;
     line-height: 1.2;
 
     &:hover {
-      border-bottom: 1px solid $blue;
+      color: $blue;
+      border-bottom: 1.5px solid blue;
     }
   }
 
