@@ -103,12 +103,12 @@ img.homepage-image {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $white;
-  background: $darkGray;
+  color: $offWhite;
+  background: $darkerGray;
 }
 ::selection {
-  color: $white;
-  background: $darkGray;
+  color: $offWhite;
+  background: $darkerGray;
 }
 
 // Nicolas Gallagher's micro clearfix hack
