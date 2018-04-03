@@ -22,6 +22,27 @@
   display: none;
 }
 
+.padding-none {
+  padding: 0 !important;
+}
+
 .text-center {
   text-align: center !important;
+}
+
+.mobile-only {
+  display: none;
+
+  @include mobile {
+    display: block;
+  }
+
+}
+
+.mobile-text-center {
+
+  @include mobile {
+    text-align: center;
+  }
+
 }
