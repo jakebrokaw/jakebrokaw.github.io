@@ -14,7 +14,6 @@ title: That introverted and pale nerd who likes to design and code.
     Currently reading:
   </strong>
   <a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1512445873&sr=1-1" target="_blank">
-    Sapiens: A Brief History of Humankind
-  </a>
+    Sapiens: A Brief History of Humankind</a>
   — Yuval Noah Harari
 </p>
