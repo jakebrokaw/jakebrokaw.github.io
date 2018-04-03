@@ -10,8 +10,7 @@ Thanks for considering my project! Here's a super quick summary of what I used t
 - Google Fonts: Source Sans Pro
 - Good ole HTML
 - Good ole CSS
-  - I figured it'd be easiest to have one main CSS file for review. Normally, I prefer working with Sass and break out styles into partial files.
-
+  - Normally I prefer working with Sass and would break out the styles into partial files, but I figured it'd be easiest to have one main CSS file for review.
 
 ## Contact Information:
 
