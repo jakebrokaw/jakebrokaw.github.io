@@ -91,11 +91,11 @@ p, li {
   	cursor: pointer;
     text-decoration: none;
     border-bottom: 1.5px solid $darkerGray;
-    line-height: 1.2;
+    line-height: 1.1;
 
     &:hover {
       color: $blue;
-      border-bottom: 1.5px solid blue;
+      border-bottom: 1.5px solid $blue;
     }
   }
 

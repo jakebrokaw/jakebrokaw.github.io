@@ -7,7 +7,7 @@ title: That introverted and pale nerd who likes to design and code.
   I'm a web designer &amp; developer living in Portland, Oregon with my favorite <a href="https://www.sparks-of-art.com">human</a> and my two favorite <a href="https://www.instagram.com/p/wm-FsonqsK/?taken-by=jacobrokaw">non-humans</a>.
 </p>
 <p>
-  After meeting in California, my wife and I have lived in three different states in the past four years. I love the experience of living in a city and making it home for a year before going on to explore somewhere new. My favorite nights consist of drinking hot tea and reading a good book on philosophy. My greatest weakness is rooting for the <a href="/did-the-browns-win">Cleveland Browns</a>.
+  After meeting in California, my wife and I have lived in four different states in the past five years. I love the experience of living in a city and making it home for a year before going on to explore somewhere new. My favorite nights consist of drinking a hot cup of tea and reading a good book on philosophy. My greatest weakness is rooting for the <a href="/did-the-browns-win">Cleveland Browns</a>.
 </p>
 <p>
   <strong>
