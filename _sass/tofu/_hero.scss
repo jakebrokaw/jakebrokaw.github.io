@@ -115,7 +115,7 @@ a.tofu-links--slide {
     height: 6px;
     top: 45%;
     margin-top: -0.5px;
-    background: $darkerGray;
+    background: $blue;
   }
 
   span:before {
@@ -123,12 +123,12 @@ a.tofu-links--slide {
   }
   span:after {
     right: 4.5px;
-    background: $darkerGray;
+    background: $blue;
     transition: width 0.8s cubic-bezier(0.22, 0.61, 0.36, 1);
   }
 
   span:hover:before {
-    background: $darkerGray;
+    background: $blue;
     width: 115%;
     transition: width 0.5s cubic-bezier(0.22, 0.61, 0.36, 1);
   }
