@@ -1,5 +1,5 @@
 ---
-layout: large-hero--content
+layout: large-hero--content--no-bio
 title: Sometimes I put sentences together and share them here.
 ---
 
