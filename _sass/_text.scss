@@ -90,12 +90,12 @@ p, li {
     color: $darkerGray;
   	cursor: pointer;
     text-decoration: none;
-    border-bottom: 1.5px solid $darkerGray;
+    font-weight: 500;
+    color: $blue;
     line-height: 1.1;
 
     &:hover {
-      color: $blue;
-      border-bottom: 1.5px solid $blue;
+      opacity: 0.8;
     }
   }
 

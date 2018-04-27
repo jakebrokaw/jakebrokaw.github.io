@@ -42,31 +42,19 @@
   }
 
   .read-more {
-    font-size: 18px;
+    font-size: 16px;
     color: $darkerGray;
   	cursor: pointer;
+    margin-top: 10px;
     text-decoration: none;
     display: inline-block;
-    font-weight: 500;
     font-family: $metropolis;
-    border-bottom: 2px solid $darkerGray;
+    font-weight: 600;
+    // border: 1px solid $darkerGray;
+    // border-radius: 2px;
 
     &:hover {
       color: $blue;
-      border-bottom: 2px solid blue;
-    }
-
-  }
-
-  .read-more-arrow {
-    font-size: 1.2rem;
-    margin-left: 2px;
-
-    &:after {
-      content: '';
-      margin-left: 5px;
-      transform: scaleX(0);
-      transition: transform 350ms ease-in-out;
     }
 
   }

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Next Move&#58; We’re Off to the Pacific Northwest
+title: The Next Move&#58; We’re Off to the Pacific Northwest
 excerpt_separator: <!--more-->
 ---
 

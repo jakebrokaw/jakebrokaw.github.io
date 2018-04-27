@@ -13,9 +13,10 @@
     font-family: $source;
     font-style: italic;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 42px;
     padding: 30px 0 30px 50px;
     width: 120%;
+    line-height: 1.25;
 
     author {
       font-size: 24px;
@@ -32,6 +33,18 @@ hr {
   border: 0;
   border-top: 1px dotted $lightGray;
   margin: 50px 0;
+}
+
+.tofu-horizontal-rule--hero {
+  width: 75%;
+  margin-left: 75px;
+  margin-top: 10px;
+}
+
+.tofu-horizontal-rule--hero--full-width {
+  width: 80%;
+  margin-left: 75px;
+  margin-top: 10px;
 }
 
 .tofu-main__content,
