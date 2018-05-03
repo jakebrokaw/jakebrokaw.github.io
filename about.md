@@ -3,7 +3,7 @@ layout: large-hero--content--no-bio
 title: That introverted and pale nerd who likes to design and code.
 ---
 
-<p>
+<p class="margin-top-none">
   I’m a web developer &amp; designer living in Portland, Oregon with my favorite <a href="https://www.sparks-of-art.com">human</a> and my two favorite <a href="https://www.instagram.com/p/wm-FsonqsK/?taken-by=jacobrokaw">non-humans</a>.
 </p>
 <p>
