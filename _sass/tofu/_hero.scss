@@ -30,7 +30,7 @@
     }
 
     span {
-      font-size: 56px;
+      font-size: 72px;
       line-height: normal;
     }
 
@@ -179,7 +179,7 @@ a.tofu-links--slide {
       font-size: 80px;
 
       span {
-        font-size: 24px;
+        font-size: 64px;
       }
 
     }
@@ -203,27 +203,43 @@ a.tofu-links--slide {
     }
 
   }
-  
+
 }
 
 @media all and (max-width:574px) {
   .tofu-hero {
+
     .tofu-title--primary {
       font-size: 64px;
+
+      span {
+        font-size: 48px;
+      }
+
     }
+
   }
+
 }
 
 @media all and (max-width:466px) {
   .tofu-hero {
+
     .tofu-title--primary {
       font-size: 48px;
+
+      span {
+        font-size: 40px;
+      }
+
     }
 
     .tofu-hero__logo {
+
       svg {
         height: 15px;
       }
+
     }
 
     .tofu-hero__nav__items {
