@@ -25,7 +25,7 @@ h1 {
 
 }
 
-h2 {
+h2, h3 {
   font-family: $source;
   font-size: 40px;
 
@@ -50,21 +50,6 @@ h2 {
 
 }
 
-h3 {
-  font-size: 22px;
-
-  a {
-    color: $darkerGray;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: none;
-      color: $offWhite;
-    }
-
-  }
-
-}
 
 h4 {
   font-size: 20px;
@@ -90,13 +75,23 @@ p, li {
     color: $darkerGray;
   	cursor: pointer;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 400;
     color: $blue;
     line-height: 1.1;
 
     &:hover {
       opacity: 0.8;
+
+      .tofu-link-arrow {
+        margin-left: 5px;
+      }
+
     }
+
+    .tofu-link-arrow {
+      transition: margin-left 0.65s;
+    }
+
   }
 
 }

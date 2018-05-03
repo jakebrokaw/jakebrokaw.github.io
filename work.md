@@ -1,6 +1,6 @@
 ---
-layout: large-hero--content--full-width
-title: “Work, work, work, work, work.” <span>— Rihanna</span>
+layout: large-hero--content--no-bio
+title: As Rihanna once said, “Work, work, work, work, work.”
 ---
 
 {% include portfolio.html %}

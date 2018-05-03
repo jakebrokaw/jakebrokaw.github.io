@@ -14,12 +14,22 @@
 }
 
 .tofu-portfolio__item {
-  display: flex;
-  -webkit-box-orient: horizontal;
-	-webkit-box-direction: normal;
-	flex-direction: row;
-  align-items: center;
-  margin-bottom: 50px;
+  padding: 22px 0 10px;
+}
+
+.tofu-portfolio__item-categories {
+  font-size: 14px;
+  font-weight: 500;
+
+  span {
+    display: inline-block;
+    padding: 2px 10px;
+    background-color: $lightestGray;
+    color: $darkerGray;
+    border-radius: 50px;
+    margin: 5px 8px 5px 0;
+  }
+
 }
 
 .tofu-portfolio__image {

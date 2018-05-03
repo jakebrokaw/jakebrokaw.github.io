@@ -3,10 +3,11 @@
 	-webkit-box-orient: horizontal;
 	-webkit-box-direction: normal;
 	flex-direction: row;
+  flex-wrap: wrap;
   overflow: hidden;
   position: relative;
   color: $darkerGray;
-  padding: 50px 20px 30px 75px;
+  padding: 50px 20px 10px 75px;
   font-family: $metropolis;
   align-items: center;
 }
@@ -145,10 +146,15 @@ a.tofu-links--slide {
 
 @media all and (max-width:908px) {
   .tofu-hero {
-    padding: 50px 20px 50px 50px;
+    padding: 50px 20px 30px 50px;
 
     .tofu-title--primary {
       font-size: 96px;
+    }
+
+    .tofu-horizontal-rule--hero {
+      width: 60%;
+      margin-bottom: 0;
     }
 
   }
@@ -156,7 +162,7 @@ a.tofu-links--slide {
 
 @media all and (max-width:750px) {
   .tofu-hero {
-    padding: 50px 20px 50px 30px;
+    padding: 50px 20px 20px 30px;
 
     .tofu-title--primary {
       font-size: 88px;
@@ -192,7 +198,12 @@ a.tofu-links--slide {
       font-size: 16px;
     }
 
+    .tofu-horizontal-rule--hero {
+      width: 80%;
+    }
+
   }
+  
 }
 
 @media all and (max-width:574px) {
