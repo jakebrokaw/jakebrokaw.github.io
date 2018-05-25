@@ -13,7 +13,7 @@ title: That introverted and pale nerd who likes to design and code.
   <strong>
     Currently reading:
   </strong><br>
-  <a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1512445873&sr=1-1" target="_blank">
-    Sapiens: A Brief History of Humankind</a>
-  — Yuval Noah Harari
+  <a href="https://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0451482212" target="_blank">
+    Between the World and Me</a>
+  — Ta-Nehisi Coates
 </p>
