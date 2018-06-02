@@ -7,7 +7,7 @@ title: A Short Story On How Mozilla & Jake Saved The World
 
 The world was becoming a very dark and strange place: people were eating Tide Pods; the Internet as we know it was under attack and large corporations were collecting personal information on users without their knowledge; someone was trying to talk people into paying $400 for a "high-tech" juicer. Luckily, the universe had a plan to bring positive change and stability back into the world—a plan that involved pairing a mild-mannered front-end developer with an organization focused on <a href="https://www.mozilla.org/en-US/mission/" target="_blank" md_>ensuring the Internet is a global public resource, open and accessible to all</a>.
 
-Before we dive into the epic tale of how these characters combined their powers to save the world, let’s learn a little more about our mild-mannered front-end developer, Jake, and see why the universe felt he was the right person to join forces with Mozilla.
+Before we dive in to the epic tale of how these characters combined their powers to save the world, let’s learn a little more about our mild-mannered front-end developer, Jake, and see why the universe felt he was the right person to join forces with Mozilla.
 
 ![Illustration of Jake and his desk set up]({{ site.baseurl }}/mozilla/chapter-i.svg)
 <br>
@@ -21,7 +21,7 @@ _**PLOT TWIST!**_ 💨
 
 One day, while surfing the interwebs, the universe planted an idea into Jake's mind. The idea was as simple as it was profound: He could combine his skillset with his passion for helping others in a way that might make the Internet a better place for all.
 
-After this realization, the only question left to answer was: Who might Jake pair up with to accomplish this quest? Fortunately, the perfect role opened up with one of Jake's favorite organizations—**Mozilla** (he was already a Firefox evangelist and proudly displays it's logo on his laptop in sticker form). From that moment on, Jake's whole world was...different. Life started to make sense again. The air was fresher, food tasted better, the sky was filled with angels singing "Don't Stop Me Now," <a href="https://www.good.is/articles/happiest-song-on-earth#HgzGwKwLmgM" target="_blank" md_>the happiest song on Earth</a> (listening to this song while finishing the rest of the story is encouraged 😉).
+After this realization, the only question left to answer was: Who might Jake pair up with to accomplish this quest? Fortunately, the perfect role opened up with one of Jake's favorite organizations—**Mozilla** (he proudly displays Firefox's logo in sticker form on his laptop). From that moment on, Jake's whole world was...different. Life started to make sense again. The air was fresher, food tasted better, the sky was filled with angels singing "Don't Stop Me Now," <a href="https://www.good.is/articles/happiest-song-on-earth#HgzGwKwLmgM" target="_blank" md_>the happiest song on Earth</a> (listening to this song while finishing the rest of the story is encouraged 😉).
 
 
 ![Illustration of Jake and his desk set up]({{ site.baseurl }}/mozilla/chapter-ii.svg)
