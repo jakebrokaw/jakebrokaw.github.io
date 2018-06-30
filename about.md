@@ -13,7 +13,7 @@ title: That introverted and pale nerd who likes to design and code.
   <strong>
     Currently reading:
   </strong><br>
-  <a href="https://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0451482212" target="_blank">
-    Between the World and Me</a>
-  — Ta-Nehisi Coates
+  <a href="https://www.amazon.com/Go-Went-Gone-Jenny-Erpenbeck/dp/0811225941/ref=sr_1_1?ie=UTF8&qid=1525802067&sr=8-1&keywords=Go%2C+Went%2C+Gone" target="_blank">
+    Go, Went, Gone</a>
+  — Jenny Erpenbeck
 </p>
