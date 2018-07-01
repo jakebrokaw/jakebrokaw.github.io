@@ -31,7 +31,7 @@
     <path d="M354.89 359.81H45.43c-11.598 0-21-9.402-21-21v-85.366c0-11.598 9.402-21 21-21h68.32c11.598 0 21-9.402 21-21v-35.741" stroke="#D6DDE3" stroke-width="4" stroke-linecap="round" stroke-dasharray="8"/>
     <path d="M350.966 362v-42.769c0-11.598-9.402-21-21-21h-56.332c-11.598 0-21-9.402-21-21V80.623c0-11.598 9.402-21 21-21h8.434" stroke="#D6DDE3" stroke-width="4" stroke-linecap="round" stroke-dasharray="9"/>
     <path d="M559.122 326.26v-31.838c0-10.493 8.506-19 19-19h34c10.493 0 19-8.506 19-19V218.79" stroke="#D6DDE3" stroke-width="4" stroke-linecap="round" stroke-dasharray="8,8,8"/>
-    <path d="M561.788 358.16h290.92c11.598 0 21-9.402 21-21V111.764c0-11.598-9.402-21-21-21h-49.62" stroke="#D6DDE3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8"/>
+    <path d="M561.788 358.16H863.32c11.598 0 21-9.402 21-21V111.764c0-11.598-9.402-21-21-21h-60.23" stroke="#D6DDE3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8"/>
     <g transform="translate(573.975 79.41)">
       <path d="M6 .314h97.676a6 6 0 0 1 6 6v38.798H0V6.314a6 6 0 0 1 6-6z" fill="#0D97FF"/>
       <path d="M.5 45.112h106.573" stroke="#0F0F0F" stroke-width="4" stroke-linecap="square"/>

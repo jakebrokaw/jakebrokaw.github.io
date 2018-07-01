@@ -21,7 +21,7 @@ _**PLOT TWIST!**_ 💨
 
 One day, while surfing the interwebs, the universe planted an idea into Jake's mind. The idea was as simple as it was profound: He should combine his skillset with his passion for helping others.
 
-After this realization, the only question left to answer was: Who might Jake pair up with to accomplish this quest? Fortunately, the perfect role opened up with one of Jake's favorite companies (which also happens to be his bank)—**Simple**. From that moment on, Jake's whole world was...different. Life started to make sense again. The air was fresher, food tasted better, the sky was filled with angels singing "Don't Stop Me Now," <a href="https://www.good.is/articles/happiest-song-on-earth#HgzGwKwLmgM" target="_blank" md_>the happiest song on Earth</a> (listening to this song while finishing the rest of the story is encouraged 😉).
+After this realization, the only question left to answer was: Who might Jake pair up with to accomplish this quest? Fortunately, the perfect role opened up with one of Jake's favorite companies (which also happens to be his bank)—**Simple**. From that moment on, Jake's whole world was...different. Life started to make sense again. The air was fresher, food tasted better, the sky was filled with angels singing "Don't Stop Me Now," <a href="https://www.good.is/articles/happiest-song-on-earth" target="_blank" md_>the happiest song on Earth</a> (listening to this song while finishing the rest of the story is encouraged 😉).
 
 
 ![Illustration of Jake and his desk set up]({{ site.baseurl }}/simple/chapter-ii.svg)
@@ -32,7 +32,7 @@ After this realization, the only question left to answer was: Who might Jake pai
 
 Once the universe made it blatantly clear that Jake and Simple should join forces, they both decided they couldn't delay the inevitable any longer.
 
-Jake had used his love of writing scalable and semantic HTML, CSS, and JavaScript to <a href="/work" target="_blank" md_>build intentional and informative landing pages</a> in the past, but now he was able to do it knowing those skills would help provide people with confidence in their money and their bank. Jake's knowledge and experience with creating, implementing, and maintaining <a href="https://formstack.com/brand/" target="_blank" md_>Formstack's Brand Design System</a> allowed him to write and implement intentional and well crafted components across Simple's site. (Fun fact: Jake was even invited to <a href="https://www.instagram.com/p/BaG8lvUlkcj/?taken-by=jacobrokaw" target="_blank" md_>speak to the Tulsa UX group</a> about his experience with design systems.) Lastly, since he also has a design background and is used to working with UX designers, he understands how a collaborative design and development process can benefit users. His design background also enabled him to assist in the design direction of Simple's brand.
+Jake had used his love of writing scalable and semantic HTML, CSS, and JavaScript to <a href="/work" target="_blank" md_>build intentional and informative landing pages</a> in the past, but now he was able to do it knowing those skills would help provide people with confidence in their money and their bank. Jake's knowledge and experience with creating, implementing, and maintaining <a href="https://formstack.com/brand/" target="_blank" md_>Formstack's Brand Design System</a> allowed him to write and implement thoughtful and well crafted components across Simple's site. (Fun fact: Jake was even invited to <a href="https://www.instagram.com/p/BaG8lvUlkcj/?taken-by=jacobrokaw" target="_blank" md_>speak to the Tulsa UX group</a> about his experience with design systems.) Lastly, since he also has a design background and is used to working with UX designers, he understands how a collaborative design and development process can benefit users.
 
 ![Illustration of Jake and his desk set up]({{ site.baseurl }}/simple/chapter-iii.svg)
 <br>
@@ -41,7 +41,7 @@ Jake had used his love of writing scalable and semantic HTML, CSS, and JavaScrip
 
 ## Chapter IV: The World is Saved
 
-Because of the work that Simple and Jake were able to accomplish together, the world was a safer and brighter place to live. Tide Pods were only used for laundry purposes again. People from all over the world finally felt confident with their financial situation because they were banking with Simple. The juicer startup, Juicero, was thankfully shut down. All was well with the world.
+Because of the work that Simple and Jake were able to accomplish together, the world was a safer and brighter place to live. Tide Pods went back to being used solely for laundry purposes. People from all over the world finally felt confident with their financial situation because they were banking with Simple. The $400 juicer startup, Juicero, was thankfully shut down. All was well with the world.
 
 The universe knew what it was doing when it paired Jake with Simple, which was already contributing so much good to the world. They, along with everyone else in the world, lived happily ever after.
 
