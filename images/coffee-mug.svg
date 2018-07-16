@@ -1,15 +1,96 @@
 <svg version="1.1" viewBox="0 0 68 77" xmlns="http://www.w3.org/2000/svg">
-<title>Group</title>
-<g fill="none" fill-rule="evenodd">
-<g transform="translate(0 3)">
-<g transform="translate(0 31)" fill="#0F0F0F">
-<path class="DIhnmATP_0" d="m49.948 5.5515v-5c11.519 0 17.219 4.3726 17.219 15.629 0 11.421-5.3101 15.629-17.219 15.629v-5c9.3698 0 12.219-2.258 12.219-10.629 0-8.1621-3.2163-10.629-12.219-10.629z" fill-rule="nonzero"/>
-<path class="DIhnmATP_1" d="m39.529 42.866h-27.543c-6.1604 0-11.154-5.0744-11.154-11.334v-30.979h49.852v30.979c0 6.2596-4.994 11.334-11.154 11.334z"/>
-</g>
-<path class="DIhnmATP_2" transform="translate(38.292 14.487) rotate(180) translate(-38.292 -14.487)" d="m38.365 4.047c-2.0736 1.6171-2.9281 3.6867-2.5636 6.2088 0.54685 3.7832 3.2883 4.5947 4.6712 7.5557 0.92196 1.974 0.21941 4.3456-2.1077 7.1148" stroke="#0F0F0F" stroke-linecap="round" stroke-width="5"/>
-<path class="DIhnmATP_3" transform="translate(25.292 10.487) rotate(180) translate(-25.292 -10.487)" d="m25.365 0.047037c-2.0736 1.6171-2.9281 3.6867-2.5636 6.2088 0.54685 3.7832 3.2883 4.5947 4.6712 7.5557 0.92196 1.974 0.21941 4.3456-2.1077 7.1148" stroke="#0F0F0F" stroke-linecap="round" stroke-width="5"/>
-<path class="DIhnmATP_4" transform="translate(12.292 14.487) rotate(180) translate(-12.292 -14.487)" d="m12.365 4.047c-2.0736 1.6171-2.9281 3.6867-2.5636 6.2088 0.54685 3.7832 3.2883 4.5947 4.6712 7.5557 0.92196 1.974 0.21941 4.3456-2.1077 7.1148" stroke="#0F0F0F" stroke-linecap="round" stroke-width="5"/>
-</g>
-</g>
-<style>.DIhnmATP_2,.DIhnmATP_3,.DIhnmATP_4{stroke-dasharray:24 26;stroke-dashoffset:25}.DIhnmATP_2{animation:DIhnmATP_draw_2 2.75s ease-out 0s infinite,DIhnmATP_fade 2.75s linear 0s infinite;animation-delay:.5s}.DIhnmATP_3{animation:DIhnmATP_draw_3 2.75s ease-out 0s infinite,DIhnmATP_fade 2.75s linear 0s infinite;animation-delay:.25s}.DIhnmATP_4{animation:DIhnmATP_draw_4 2.75s ease-out 0s infinite,DIhnmATP_fade 2.75s linear 0s infinite;animation-delay:.75s}@keyframes DIhnmATP_draw{100%{stroke-dashoffset:0}}@keyframes DIhnmATP_fade{0%,100%{stroke-opacity:.5}}@keyframes DIhnmATP_draw_2{0%{stroke-dashoffset:75}50%{stroke-dashoffset:50}100%{stroke-dashoffset:25}}@keyframes DIhnmATP_draw_3{0%{stroke-dashoffset:75}50%{stroke-dashoffset:50}100%{stroke-dashoffset:25}}@keyframes DIhnmATP_draw_4{0%{stroke-dashoffset:75}50%{stroke-dashoffset:50}100%{stroke-dashoffset:25}}</style>
+  <title>Group</title>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(0 3)">
+      <g transform="translate(0 31)" fill="#212121">
+        <path class="DIhnmATP_0" d="m49.948 5.5515v-5c11.519 0 17.219 4.3726 17.219 15.629 0 11.421-5.3101 15.629-17.219 15.629v-5c9.3698 0 12.219-2.258 12.219-10.629 0-8.1621-3.2163-10.629-12.219-10.629z" fill-rule="nonzero"/>
+        <path class="DIhnmATP_1" d="m39.529 42.866h-27.543c-6.1604 0-11.154-5.0744-11.154-11.334v-30.979h49.852v30.979c0 6.2596-4.994 11.334-11.154 11.334z"/>
+      </g>
+      <path
+        class="DIhnmATP_2"
+        transform="translate(38.292 14.487) rotate(180) translate(-38.292 -14.487)"
+        d="m38.365 4.047c-2.0736 1.6171-2.9281 3.6867-2.5636 6.2088 0.54685 3.7832 3.2883 4.5947 4.6712 7.5557 0.92196 1.974 0.21941 4.3456-2.1077 7.1148"
+        stroke="#212121"
+        stroke-linecap="round"
+        stroke-width="5"/>
+      <path
+        class="DIhnmATP_3"
+        transform="translate(25.292 10.487) rotate(180) translate(-25.292 -10.487)"
+        d="m25.365 0.047037c-2.0736 1.6171-2.9281 3.6867-2.5636 6.2088 0.54685 3.7832 3.2883 4.5947 4.6712 7.5557 0.92196 1.974 0.21941 4.3456-2.1077 7.1148"
+        stroke="#212121"
+        stroke-linecap="round"
+        stroke-width="5"/>
+      <path
+        class="DIhnmATP_4"
+        transform="translate(12.292 14.487) rotate(180) translate(-12.292 -14.487)"
+        d="m12.365 4.047c-2.0736 1.6171-2.9281 3.6867-2.5636 6.2088 0.54685 3.7832 3.2883 4.5947 4.6712 7.5557 0.92196 1.974 0.21941 4.3456-2.1077 7.1148"
+        stroke="#212121"
+        stroke-linecap="round"
+        stroke-width="5"/>
+    </g>
+  </g>
+  <style>
+    .DIhnmATP_2,
+    .DIhnmATP_3,
+    .DIhnmATP_4 {
+      stroke-dasharray: 24 26;
+      stroke-dashoffset: 25;
+    }
+    .DIhnmATP_2 {
+      animation: DIhnmATP_draw_2 2.75s ease-out 0s infinite,DIhnmATP_fade 2.75s linear 0s infinite;
+      animation-delay: 0.5s;
+    }
+    .DIhnmATP_3 {
+      animation: DIhnmATP_draw_3 2.75s ease-out 0s infinite,DIhnmATP_fade 2.75s linear 0s infinite;
+      animation-delay: 0.25s;
+    }
+    .DIhnmATP_4 {
+      animation: DIhnmATP_draw_4 2.75s ease-out 0s infinite,DIhnmATP_fade 2.75s linear 0s infinite;
+      animation-delay: 0.75s;
+    }
+    @keyframes DIhnmATP_draw {
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+    @keyframes DIhnmATP_fade {
+      0%,
+      100% {
+        stroke-opacity: 0.5;
+      }
+    }
+    @keyframes DIhnmATP_draw_2 {
+      0% {
+        stroke-dashoffset: 75;
+      }
+      50% {
+        stroke-dashoffset: 50;
+      }
+      100% {
+        stroke-dashoffset: 25;
+      }
+    }
+    @keyframes DIhnmATP_draw_3 {
+      0% {
+        stroke-dashoffset: 75;
+      }
+      50% {
+        stroke-dashoffset: 50;
+      }
+      100% {
+        stroke-dashoffset: 25;
+      }
+    }
+    @keyframes DIhnmATP_draw_4 {
+      0% {
+        stroke-dashoffset: 75;
+      }
+      50% {
+        stroke-dashoffset: 50;
+      }
+      100% {
+        stroke-dashoffset: 25;
+      }
+    }
+  </style>
 </svg>
