@@ -55,13 +55,26 @@
       color: $blue;
 
       .tofu-link-arrow {
-        margin-left: 5px;
+
+        &.right {
+          margin-left: 5px;
+        }
+
+        &.left {
+          margin-left: -5px;
+          margin-right: 5px;
+        }
+
       }
 
     }
 
-    .tofu-link-arrow {
-      transition: margin-left 0.65s;
+    .tofu-link-arrow.right {
+      transition: margin-left 0.45s;
+    }
+
+    .tofu-link-arrow.left {
+      transition: margin 0.45s;
     }
 
   }

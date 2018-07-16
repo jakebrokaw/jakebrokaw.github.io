@@ -1,6 +1,6 @@
 ---
 layout: large-hero--content--no-bio
-title: That introverted and pale nerd who likes to design and code.
+title: That introverted, pale nerd who likes to design and code.
 ---
 
 <p class="margin-top-none">

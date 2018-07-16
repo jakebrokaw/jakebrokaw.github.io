@@ -5,12 +5,17 @@
   @return mix(white, $color, $percentage);
 }
 
+@function shade($color, $percentage) {
+  @return mix(black, $color, $percentage);
+}
+
 //
 // VARIABLES
 //
 
 // Colors
-$blue: #395FD9;
+$blue: #3B63E5;
+$satBlue: #013DFF;
 $lightTeal: #3CB6B3;
 $pink: #EE0EE9;
 $blueGradient: linear-gradient(-227deg, #00BAEC 3%, #EE00FF 100%);

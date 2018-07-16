@@ -1,6 +1,6 @@
 ---
 layout: large-hero--content--no-bio
-title: Sometimes I put sentences together and share them here.
+title: Sometimes I write sentences and share them here.
 ---
 
 <div class="posts">
@@ -19,7 +19,7 @@ title: Sometimes I put sentences together and share them here.
 
       <br>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more <span class="tofu-link-arrow">&rarr;</span></a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more <span class="tofu-link-arrow right">&rarr;</span></a>
     </article>
   {% endfor %}
 </div>

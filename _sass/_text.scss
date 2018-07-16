@@ -72,24 +72,15 @@ p, li {
   }
 
   a {
-    color: $darkerGray;
   	cursor: pointer;
     text-decoration: none;
     font-weight: 400;
     color: $blue;
     line-height: 1.1;
+    transition: color 0.25s;
 
     &:hover {
-      opacity: 0.8;
-
-      .tofu-link-arrow {
-        margin-left: 5px;
-      }
-
-    }
-
-    .tofu-link-arrow {
-      transition: margin-left 0.65s;
+      color: $satBlue;
     }
 
   }
