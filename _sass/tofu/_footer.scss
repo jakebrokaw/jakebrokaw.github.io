@@ -5,7 +5,6 @@
   flex-direction: row;
   justify-content: space-evenly;
   padding: 30px 75px 30px;
-  color: $darkerGray;
 
   p {
     margin: 0;
@@ -25,7 +24,7 @@
   -webkit-box-orient: horizontal;
 	-webkit-box-direction: normal;
 	flex-direction: row;
-  width: 75%;
+  width: 73%;
 }
 
 .tofu-footer__socials {
@@ -33,7 +32,7 @@
   -webkit-box-orient: horizontal;
 	-webkit-box-direction: normal;
 	flex-direction: row;
-  width: 25%;
+  width: 28%;
   justify-content: space-between;
 }
 
@@ -43,9 +42,10 @@
   color: $darkerGray;
   font-family: $metropolis;
   font-weight: 400;
+  transition: color 0.2s;
 
   &:hover {
-    color: $blue;
+    color: $satBlue;
     opacity: 1;
   }
 
@@ -62,7 +62,7 @@
 
 // Responsiveness
 
-@media all and (max-width:1216px) {
+@media all and (max-width: 1216px) {
   .tofu-footer {
 
     .tofu-footer__content {
@@ -77,7 +77,7 @@
 
 }
 
-@media all and (max-width:1070px) {
+@media all and (max-width: 1070px) {
   .tofu-footer {
 
     .tofu-footer__content {
@@ -92,7 +92,7 @@
 
 }
 
-@media all and (max-width:960px) {
+@media all and (max-width: 960px) {
   .tofu-footer {
     -webkit-box-orient: vertical;
   	-webkit-box-direction: normal;
@@ -119,19 +119,19 @@
 
 }
 
-@media all and (max-width:908px) {
+@media all and (max-width: 908px) {
   .tofu-footer {
     padding-left: 50px;
   }
 }
 
-@media all and (max-width:674px) {
+@media all and (max-width: 674px) {
   .tofu-footer {
     padding: 30px 15px;
   }
 }
 
-@media all and (max-width:438px) {
+@media all and (max-width: 438px) {
   .tofu-mobile-break {
     display: block;
     margin-top: 30px;
@@ -139,6 +139,17 @@
     .tofu-mobile-hide {
       display: none;
     }
+  }
+}
 
+@media all and (max-width: 376px) {
+  .tofu-footer {
+    p { font-size: 16px; }
+  }
+}
+
+@media all and (max-width: 345px) {
+  .tofu-footer {
+    p { font-size: 14px; }
   }
 }

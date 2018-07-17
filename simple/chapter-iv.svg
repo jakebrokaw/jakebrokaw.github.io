@@ -53,7 +53,7 @@
       stroke-linecap="round"
       stroke-linejoin="round"/>
     <g>
-      <g opacity=".15" stroke="#0F0F0F" stroke-linecap="square" stroke-width=".25">
+      <g opacity=".15" stroke="#212121" stroke-linecap="square" stroke-width=".25">
         <path d="M618.018 310.377h113.469M618.018 312.123h113.469M618.018 313.87h113.469M618.018 315.616h113.469M618.018 317.363h113.469M618.018 319.11h113.469M618.018 308.63h113.469"/>
       </g>
       <g stroke="#212121">
@@ -83,7 +83,7 @@
         <g stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
           <path d="M87.125 53.376c-.274 6.806 2.49 10.158 8.294 10.057 5.803-.101 8.418-3.547 7.845-10.338M48.125 53.376c-.274 6.806 2.49 10.158 8.294 10.057 5.803-.101 8.418-3.547 7.845-10.338"/>
         </g>
-        <g stroke="#0F0F0F" stroke-linecap="round" stroke-width="4">
+        <g stroke="#212121" stroke-linecap="round" stroke-width="4">
           <path d="M62.422 22.575v17.703M74.34 22.575v17.703M86.26 22.575v17.703"/>
         </g>
         <g stroke="#212121" stroke-linecap="round" stroke-width="4">

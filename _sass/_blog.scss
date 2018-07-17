@@ -15,6 +15,44 @@
 
 }
 
+.read-more {
+  font-size: 16px;
+  color: $darkerGray;
+  cursor: pointer;
+  margin-top: 10px;
+  text-decoration: none;
+  display: inline-block;
+  font-family: $metropolis;
+  font-weight: 600;
+
+  &:hover {
+    color: $blue;
+
+    .tofu-link-arrow {
+
+      &.right {
+        margin-left: 5px;
+      }
+
+      &.left {
+        margin-left: -5px;
+        margin-right: 5px;
+      }
+
+    }
+
+  }
+
+  .tofu-link-arrow.right {
+    transition: margin-left 0.45s;
+  }
+
+  .tofu-link-arrow.left {
+    transition: margin 0.45s;
+  }
+
+}
+
 .entry {
   p {
     margin-bottom: 32px;
@@ -39,44 +77,6 @@
 
   .comments {
     margin-top: 10px;
-  }
-
-  .read-more {
-    font-size: 16px;
-    color: $darkerGray;
-  	cursor: pointer;
-    margin-top: 10px;
-    text-decoration: none;
-    display: inline-block;
-    font-family: $metropolis;
-    font-weight: 600;
-
-    &:hover {
-      color: $blue;
-
-      .tofu-link-arrow {
-
-        &.right {
-          margin-left: 5px;
-        }
-
-        &.left {
-          margin-left: -5px;
-          margin-right: 5px;
-        }
-
-      }
-
-    }
-
-    .tofu-link-arrow.right {
-      transition: margin-left 0.45s;
-    }
-
-    .tofu-link-arrow.left {
-      transition: margin 0.45s;
-    }
-
   }
 
   .blog-disclaimer {

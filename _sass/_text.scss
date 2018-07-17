@@ -25,9 +25,16 @@ h1 {
 
 }
 
+h2 {
+  font-size: 56px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
 h2, h3 {
   font-family: $source;
-  font-size: 40px;
 
   a {
     color: $darkerGray;
@@ -52,7 +59,11 @@ h2, h3 {
 
 
 h4 {
-  font-size: 20px;
+  font-size: 32px;
+}
+
+h5 {
+  font-size: 24px;
 }
 
 p, li {
@@ -77,7 +88,7 @@ p, li {
     font-weight: 400;
     color: $blue;
     line-height: 1.1;
-    transition: color 0.25s;
+    transition: color 0.2s;
 
     &:hover {
       color: $satBlue;

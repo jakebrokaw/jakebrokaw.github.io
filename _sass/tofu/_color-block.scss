@@ -1,0 +1,53 @@
+.tofu-color-block__holder {
+  display: flex;
+  -webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	flex-direction: row;
+}
+
+.tofu-color-block {
+  padding: calc(12.5% - 9px);
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid;
+  margin-right: 16px;
+
+  &.darkerGray {
+    background-color: $darkerGray;
+    border-color: $darkerGray;
+    color: $offWhite;
+  }
+
+  &.blue {
+    background-color: $blue;
+    border-color: $blue;
+    color: $offWhite;
+  }
+
+  &.offWhite {
+    background-color: $offWhite;
+    border-color: $darkerGray;
+    color: $darkerGray;
+  }
+
+  &.lightestGray {
+    background-color: $lightestGray;
+    border-color: $lightestGray;
+    color: $darkerGray;
+  }
+
+  &.satBlue {
+    background-color: $satBlue;
+    border-color: $satBlue;
+    color: $offWhite;
+  }
+
+  &.mediumGray {
+    background-color: $mediumGray;
+    border-color: $mediumGray;
+    color: $offWhite;
+  }
+
+}

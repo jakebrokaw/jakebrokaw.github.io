@@ -20,20 +20,17 @@
   -webkit-box-align: center;
   height: auto;
   width: 85%;
+}
 
-  .tofu-title--primary {
-    font-size: 120px;
-    line-height: 1.1;
-
-    @media all and (min-width: 1685px) {
-      font-size: 136px;
-    }
-
-    span {
-      font-size: 72px;
-      line-height: normal;
-    }
-
+.tofu-title--primary {
+  font-size: 120px;
+  line-height: 1.1;
+  @media all and (min-width: 1685px) {
+    font-size: 136px;
+  }
+  span {
+    font-size: 72px;
+    line-height: normal;
   }
 }
 
@@ -147,106 +144,50 @@ a.tofu-links--slide {
 @media all and (max-width:908px) {
   .tofu-hero {
     padding: 50px 20px 30px 50px;
-
-    .tofu-title--primary {
-      font-size: 96px;
-    }
-
     .tofu-horizontal-rule--hero {
       width: 60%;
       margin-bottom: 0;
     }
-
   }
+  .tofu-title--primary { font-size: 96px; }
 }
 
 @media all and (max-width:750px) {
-  .tofu-hero {
-    padding: 50px 20px 20px 30px;
-
-    .tofu-title--primary {
-      font-size: 88px;
-    }
-
-  }
+  .tofu-hero { padding: 50px 20px 20px 30px; }
+  .tofu-title--primary { font-size: 88px; }
 }
 
 @media all and (max-width:674px) {
   .tofu-hero {
     padding: 50px 15px 0;
-
     &.home { padding-bottom: 20px; }
-
-    .tofu-title--primary {
-      font-size: 80px;
-
-      span {
-        font-size: 64px;
-      }
-
-    }
-
-    .tofu-hero__logo {
-      svg {
-        height: 25px;
-      }
-    }
-
-    .tofu-hero__nav__items {
-      top: 365px
-    }
-
-    .tofu-hero__nav__item {
-      font-size: 16px;
-    }
-
-    .tofu-horizontal-rule--hero {
-      width: 80%;
-    }
-
   }
-
+  .tofu-title--primary {
+    font-size: 80px;
+    span { font-size: 64px; }
+  }
+  .tofu-hero__logo {
+    svg { height: 25px; }
+  }
+  .tofu-hero__nav__items { top: 365px; }
+  .tofu-hero__nav__item { font-size: 16px; }
+  .tofu-horizontal-rule--hero { width: 80%; }
 }
 
 @media all and (max-width:574px) {
-  .tofu-hero {
-
-    .tofu-title--primary {
-      font-size: 64px;
-
-      span {
-        font-size: 48px;
-      }
-
-    }
-
+  .tofu-title--primary {
+    font-size: 64px;
+    span { font-size: 48px; }
   }
-
 }
 
 @media all and (max-width:466px) {
-  .tofu-hero {
-
-    .tofu-title--primary {
-      font-size: 48px;
-
-      span {
-        font-size: 40px;
-      }
-
-    }
-
-    .tofu-hero__logo {
-
-      svg {
-        height: 15px;
-      }
-
-    }
-
-    .tofu-hero__nav__items {
-      top: 355px
-    }
-
+  .tofu-title--primary {
+    font-size: 48px;
+    span { font-size: 40px; }
   }
+  .tofu-hero__logo {
+    svg { height: 15px; }
+  }
+  .tofu-hero__nav__items { top: 355px; }
 }
