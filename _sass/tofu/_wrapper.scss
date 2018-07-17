@@ -4,9 +4,14 @@
 	-webkit-box-direction: normal;
 	flex-direction: column;
 
-  @media all and (min-height: 675px) {
+  @media all and (min-height: 660px) {
     min-height: 89vh;
     justify-content: center;
+  }
+
+  @media all and (max-width: 375px) {
+    min-height: 80vh;
+    // justify-content: flex-start;
   }
 
 }
