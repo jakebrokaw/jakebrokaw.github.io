@@ -17,7 +17,7 @@ title: That introverted, pale nerd who likes to design and code.
   </strong>
 </p>
 <p class="margin-top-none">
-   After meeting in California, my wife and I have lived in four different states in the past five years. I've enjoyed the experience of living in a city for a year or so before going to explore somewhere new. However, I think we’ve finally found a “home” here in Portland. My favorite nights consist of drinking a hot cup of tea and reading a good book (#introvertproblems). My greatest weakness is rooting for the <a href="/did-the-browns-win">Cleveland Browns</a>.
+   After meeting in California, my wife and I have lived in four different states in the past five years. I’ve enjoyed the experience of living in a city for a year or so before going to explore somewhere new. However, I think we’ve finally found a “home” here in Portland. My favorite nights consist of drinking a hot cup of tea and reading a good book (#introvertproblems). My greatest weakness is rooting for the <a href="/did-the-browns-win">Cleveland Browns</a>.
 </p>
 <p>
   <strong>
