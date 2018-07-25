@@ -13,7 +13,7 @@ title: That introverted, pale nerd who likes to design and code.
 </p>
 <p>
   <strong>
-    Professional:
+    Personal:
   </strong>
 </p>
 <p class="margin-top-none">
