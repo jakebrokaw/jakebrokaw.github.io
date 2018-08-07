@@ -19,7 +19,7 @@ title: Sometimes I write sentences and share them here.
 
       <br>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more <span class="tofu-link-arrow right">&rarr;</span></a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more <span class="tofu-link-arrow right"></span></a>
     </article>
   {% endfor %}
 </div>

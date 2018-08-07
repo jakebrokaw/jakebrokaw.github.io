@@ -43,12 +43,28 @@
 
   }
 
+  .tofu-link-arrow {
+    vertical-align: middle;
+  }
+
   .tofu-link-arrow.right {
     transition: margin-left 0.45s;
+
+    &:after {
+      font-family: $metropolis;
+      content: "\2192";
+    }
+
   }
 
   .tofu-link-arrow.left {
     transition: margin 0.45s;
+
+    &:after {
+      font-family: $metropolis;
+      content: "\2190";
+    }
+
   }
 
 }
