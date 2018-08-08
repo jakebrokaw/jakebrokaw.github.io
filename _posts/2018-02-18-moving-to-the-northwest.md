@@ -8,10 +8,10 @@ Sarah and I first met each other on the west coast during a  summer internship f
 
 As with anything we do, we’re making the trip out there an adventure. We’re leaving Tulsa on Friday, March 2nd and driving up to Denver. We’ll stay there for the weekend and then drive up to Salt Lake City, where we’ll be staying for a week while we continue working (#remotelife). The following weekend, we’ll drive up to Boise where we’ll stay for another week. Finally, we’ll make our way to our new "home" in...
 
-<br>
-![Kevin Durant Wearing a Portland Shirt]({{ site.baseurl }}/images/blog/kd-portland.jpg)
-<br>
-<br>
+<div class="tofu-blog__image">
+  <img src="{{ site.baseurl }}/images/blog/kd-portland.jpg" alt="KD posing with a Portland shirt">
+  <p class="tofu-blog__image-cred">Taking any opportunity to poke fun at KD 😜</p>
+</div>
 
 PORTLAND! (We have an Airbnb there for a week while we explore Portland a bit and find a place to live.)
 
