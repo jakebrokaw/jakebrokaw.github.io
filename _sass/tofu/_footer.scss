@@ -43,10 +43,10 @@
   font-family: $metropolis;
   font-weight: 400;
   transition: color 0.2s;
+  border-bottom: 1.5px solid transparent;
 
   &:hover {
-    color: $satBlue;
-    opacity: 1;
+    color: $gold;
   }
 
   &:visited {
@@ -54,8 +54,7 @@
   }
 
   &:visited:hover {
-    color: $blue;
-    opacity: 1;
+    color: $gold;
   }
 
 }

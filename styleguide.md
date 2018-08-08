@@ -15,7 +15,7 @@ title: “...in all things, the supreme excellence is simplicity.”
   <hr class="tofu-horizontal-rule--content-heading">
   <div class="tofu-color-block__holder margin-bottom-50">
     <div class="tofu-color-block darkerGray">#212121</div>
-    <div class="tofu-color-block blue">#275DD7</div>
+    <div class="tofu-color-block gold">#CC9A00</div>
     <div class="tofu-color-block offWhite">#F4F6FA</div>
   </div>
 </div>
@@ -23,7 +23,6 @@ title: “...in all things, the supreme excellence is simplicity.”
   <h2>Secondary Colors</h2>
   <hr class="tofu-horizontal-rule--content-heading">
   <div class="tofu-color-block__holder">
-  <div class="tofu-color-block satBlue">#013DFF</div>
     <div class="tofu-color-block mediumGray">#8F8F8F</div>
     <div class="tofu-color-block lightestGray">#CECECF</div>
   </div>
@@ -47,7 +46,7 @@ title: “...in all things, the supreme excellence is simplicity.”
   <p><em>This is an italic sentence.</em></p>
   <p><strong>This is a bold sentence.</strong></p>
   <p>This is a regular sentence with <a>a link</a>.</p>
-  <p>This is a blog excerpt <a class="read-more">Read more link<span class="tofu-link-arrow right">&rarr;</span></a></p>
+  <p>This is a blog excerpt <a class="read-more">Read more link<span class="tofu-link-arrow right"></span></a></p>
   <p>This is a <a class="tofu-footer__socials__item">footer link</a>.</p>
 </div>
 <div>
