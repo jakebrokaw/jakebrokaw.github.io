@@ -25,34 +25,7 @@ title: That introverted, pale nerd who likes to design and code.
   </strong>
 </p>
 <ul class="margin-top-none">
-  <li>
-    <em><a href="https://bit.ly/2pUtvbs" target="_blank" md_>
-      Homo Deus: A Brief History of Tomorrow</a></em>
-    // Yuval Hoah Harari
-  </li>
-  <li>
-  <em><a href="https://amzn.to/2MshLVX" target="_blank" md_>
-    Go, Went, Gone</a></em>
-// Jenny Erpenbeck
-  </li>
-  <li>
-  <em><a href="https://amzn.to/2voOC7s" target="_blank" md_>
-    The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</a></em>
-// Ryan Holiday
-  </li>
+  <li><a href="https://bit.ly/2pUtvbs" target="_blank" md_>Homo Deus: A Brief History of Tomorrow</a> // Yuval Hoah Harari</li>
+  <li><a href="https://amzn.to/2MshLVX" target="_blank" md_>Go, Went, Gone</a> // Jenny Erpenbeck</li>
+  <li><a href="https://amzn.to/2voOC7s" target="_blank" md_>The Daily Stoic</a> // Ryan Holiday</li>
 </ul>
-<!-- <p class="margin-top-none">
-  <em><a href="https://bit.ly/2pUtvbs" target="_blank" md_>
-    Homo Deus: A Brief History of Tomorrow</a></em>
-// Yuval Hoah Harari
-</p>
-<p class="margin-top-none">
-  <em><a href="https://amzn.to/2MshLVX" target="_blank" md_>
-    Go, Went, Gone</a></em>
-// Jenny Erpenbeck
-</p>
-<p class="margin-top-none">
-  <em><a href="https://amzn.to/2voOC7s" target="_blank" md_>
-    Homo Deus: A Brief History of Tomorrow</a></em>
-// Yuval Hoah Harari
-</p> -->
