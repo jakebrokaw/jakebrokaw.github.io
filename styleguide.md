@@ -15,7 +15,7 @@ title: “...in all things, the supreme excellence is simplicity.”
   <hr class="tofu-horizontal-rule--content-heading">
   <div class="tofu-color-block__holder margin-bottom-50">
     <div class="tofu-color-block darkerGray">#212121</div>
-    <div class="tofu-color-block gold">#CC9A00</div>
+    <div class="tofu-color-block gold">#D4AF37</div>
     <div class="tofu-color-block offWhite">#F4F6FA</div>
   </div>
 </div>

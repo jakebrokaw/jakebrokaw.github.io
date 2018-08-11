@@ -52,6 +52,7 @@
     transition: margin-left 0.45s;
 
     &:after {
+      color: $gold;
       font-family: $metropolis;
       content: "\2192";
     }
@@ -62,6 +63,7 @@
     transition: margin 0.45s;
 
     &:after {
+      color: $gold;
       font-family: $metropolis;
       content: "\2190";
     }
