@@ -4,7 +4,6 @@
 	-webkit-box-direction: normal;
 	flex-direction: row;
   position: relative;
-  background-color: $offWhite;
   color: $darkerGray;
   padding: 0 30px 30px 75px;
   font-family: $metropolis;
@@ -31,13 +30,13 @@ hr {
   width: 100%;
   height: 1px;
   border: 0;
-  border-top: 1.5px solid $gold;
-  border-bottom: 1.5px solid $gold;
-  margin: 25px 0 50px -76px;
+  border-top: 2.5px solid $gold;
+  border-bottom: 2.5px solid $gold;
+  margin: 25px 0 60px -76px;
 }
 
 .tofu-horizontal-rule--hero {
-  width: 40%;
+  width: 57%;
 }
 
 .tofu-horizontal-rule--hero--full-width {

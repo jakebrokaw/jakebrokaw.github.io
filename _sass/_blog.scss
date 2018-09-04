@@ -121,6 +121,12 @@
   font-family: $metropolis;
   font-size: 16px;
   font-weight: 300;
+  
+  &.post {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
 }
 
 

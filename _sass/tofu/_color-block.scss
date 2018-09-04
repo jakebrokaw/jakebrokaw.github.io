@@ -31,6 +31,12 @@
     border-color: $darkerGray;
     color: $darkerGray;
   }
+  
+  &.white {
+    background-color: $white;
+    border-color: $darkerGray;
+    color: $darkerGray;
+  }
 
   &.lightestGray {
     background-color: $lightestGray;
