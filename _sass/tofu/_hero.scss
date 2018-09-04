@@ -77,7 +77,7 @@
   -o-transform-origin:      right top;
   transform: rotate(90deg);
   position: fixed;
-  top: 460px;
+  top: 380px;
   right: 0;
   padding: 20px 20px 25px;
   z-index: 500;
@@ -169,7 +169,7 @@ a.tofu-links--slide {
   .tofu-hero__logo {
     svg { height: 25px; }
   }
-  .tofu-hero__nav__items { top: 365px; }
+  .tofu-hero__nav__items { top: 300px; }
   .tofu-hero__nav__item { font-size: 16px; }
   .tofu-horizontal-rule--hero { width: 80%; }
 }
@@ -189,5 +189,5 @@ a.tofu-links--slide {
   .tofu-hero__logo {
     svg { height: 15px; }
   }
-  .tofu-hero__nav__items { top: 355px; }
+  .tofu-hero__nav__items { top: 290px; }
 }
