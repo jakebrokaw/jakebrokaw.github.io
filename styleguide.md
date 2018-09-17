@@ -5,7 +5,7 @@ title: “...in all things, the supreme excellence is simplicity.”
 
 <div class="margin-bottom-50">
   <p><em>This is still very much a WIP.</em></p>
-  <p>Some say style is a reflection of one's attitude and personality, and I tend to agree with that. I try to make things in my life clean, simple, and straightforward; so I wanted this site to feel clean, simple, and straightforward as well.</p>
+  <p>Some say style is a reflection of one’s attitude and personality, and I tend to agree with that. I try to make things in my life clean, simple, and straightforward; so I wanted this site to feel clean, simple, and straightforward as well.</p>
   <p>For the technical side of things, this site was created using GitHub Pages and Jekyll (which I describe in more detail <a href="/new-jekyll-site">here</a>). The site is hosted for free with GitHub pages.</p>
   <p>And now back to the styles...</p>
 </div>
