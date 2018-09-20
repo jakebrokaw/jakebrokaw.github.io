@@ -17,7 +17,7 @@ title: Hey, I’m Jake. I like to make things on the interwebs.
   </strong>
 </p>
 <p>
-   After meeting in California, my wife and I have lived in four different states in the past five years. I’ve enjoyed the experience of living in a city for a year or so before going to explore somewhere new. However, I think we’ve finally found a “home” here in Portland. My favorite nights consist of drinking a hot cup of tea and reading a good book. My greatest weakness is rooting for the <a href="/did-the-browns-win">Cleveland Browns</a>.
+   After meeting in California, my wife and I have lived in four different states in the past five years. I’ve enjoyed the experience of living in a city for a year or so before going to explore somewhere new. However, I think we’ve finally found a “home” here in Portland. My favorite nights consist of drinking a hot cup of tea and reading a good book. My greatest weakness is rooting for the Cleveland Browns.
 </p>
 <p class="margin-top-15 color--mediumGray margin-bottom-none">
   <strong>
