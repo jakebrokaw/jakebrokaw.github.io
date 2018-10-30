@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Did the Browns win? | LOL</title>
+    <title>Did the Browns win?</title>
     <link rel="stylesheet" href="/browns/styles.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
   </head>
@@ -10,20 +10,50 @@
   <body>
 
     <div class="wrapper">
-      <div class="section--white">&nbsp;</div>
-      <div class="section--orange">
-        <h1>Did the Browns win?</h1>
-      </div>
-      <div class="section--white">&nbsp;</div>
-      <div class="section--brown">
-        <h2>YES!</h2>
+      <div class="section--brown section--brown--small"></div>
+      <div class="section--orange"></div>
+      <div class="section--white"></div>
+      <div class="section--orange"></div>
+      <div class="section--brown content">
+        <h1 class="headline">Did the Browns win?</h1>
+        <div class="answer">
+          <h2 id="yes" class="display-none">OMG YES!</h2>
+          <h2 id="no" class="display-none">LOL NOPE</h2>
+        </div>
         <div class="footer">
-          <span class="footer--record">First win since 12/24/16 🙌</span>
-          <span class="footer--created">Created by <a href="/">Jake Brokaw</a></span>
+          <p>Created by <a href="/">Jake Brokaw</a></p>
         </div>
       </div>
     </div>
 
   </body>
+
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"
+  ></script>
+
+  <script src="main.js"></script>
+
+  <!-- <script type="text/javascript">
+
+
+  (function($) {
+    $.ajax({
+        type: 'GET',
+        url: 'https://api.mysportsfeeds.com/v1.2/pull/nfl/2018-regular/team_gamelogs.json?team=cle',
+        dataType: 'json',
+        async: true,
+        headers: {
+          'Authorization': 'Basic ' + btoa('24dec58c-0128-457d-80d3-d94650' + ':' + 'h3ll0J')
+        },
+        data: 'hello',
+        success: function (){
+          alert('Thanks for your comment!'); 
+        }
+      })
+  })(jQuery);
+  </script> -->
 
 </html>

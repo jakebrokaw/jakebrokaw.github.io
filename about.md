@@ -25,7 +25,7 @@ title: That introverted, pale nerd who likes to design and code.
   </strong>
 </p>
 <ul class="margin-top-none">
-  <li><a href="https://bit.ly/2pUtvbs" target="_blank" md_>Homo Deus: A Brief History of Tomorrow</a> // Yuval Hoah Harari</li>
+  <li><a href="https://amzn.to/2CODTrm" target="_blank" md_>First, We Make the Beast Beautiful: A New Journey Through Anxiety</a> // Sarah Wilson</li>
   <li><a href="https://amzn.to/2MshLVX" target="_blank" md_>Go, Went, Gone</a> // Jenny Erpenbeck</li>
   <li><a href="https://amzn.to/2voOC7s" target="_blank" md_>The Daily Stoic</a> // Ryan Holiday</li>
 </ul>
