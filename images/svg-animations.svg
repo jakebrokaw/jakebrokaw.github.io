@@ -1,0 +1,43 @@
+<style>
+    .coffee-steam{
+        stroke-dasharray: 24 26;
+        stroke-dashoffset: 25;
+        stroke: #D6DDE3;
+    }
+    .coffee-steam--left,
+    .coffee-steam--middle,
+    .coffee-steam--right {
+        animation: draw 6s ease-out 0s infinite;
+    }
+    .coffee-steam--left {
+        animation-delay: 0.25s;
+    }
+    .coffee-steam--middle {
+        animation-delay: 0.5s;
+    }
+    .coffee-steam--right {
+        animation-delay: 0.75s;
+    }
+    .line-to--browser {
+        stroke-dasharray: 9 11;
+        stroke-dashoffset: 10;
+        stroke: #D6DDE3;
+        animation: draw 6s linear 0s infinite;
+    }
+    @keyframes coffee-steam-draw {
+        100% {
+            stroke-dashoffset: 0;
+        }
+    }
+    @keyframes draw {
+        0% {
+            stroke-dashoffset: 100;
+        }
+        50% {
+            stroke-dashoffset: 50;
+        }
+        100% {
+            stroke-dashoffset: 0;
+        }
+    }
+</style>

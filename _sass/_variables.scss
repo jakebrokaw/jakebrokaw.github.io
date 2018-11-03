@@ -34,7 +34,7 @@ $metropolis: 'Metropolis', sans-serif;
 $opensans: 'Open Sans', sans-serif;
 $source: 'Source Serif Pro', serif;
 
-// Mobile breakpoints
+// Breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
     @content;
