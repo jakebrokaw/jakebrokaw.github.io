@@ -755,7 +755,7 @@
     
       var images = document.querySelectorAll('[data-src]');
       var config = {
-        rootMargin: '0px 0px 50px 0px',
+        rootMargin: '0px 0px 100px 0px',
         threshold: 0
       };
       var loaded = 0;
