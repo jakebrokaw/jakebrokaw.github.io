@@ -10,7 +10,7 @@ The world was becoming a very dark and strange place: kids were eating Tide Pods
 Before we dive in to the epic tale of how these characters combined their powers to save the world, let’s learn a little more about our mild-mannered front-end developer, Jake, and see why the universe felt he was the right person to join forces with NationBuilder.
 
 <div class="margin-top-30 margin-bottom-50">
-  <img src="{{ site.baseurl }}/nationbuilder/chapter-i.svg" alt="Jake sits at his desk with his cat and mug of hot tea.">
+  <img data-src="{{ site.baseurl }}/nationbuilder/chapter-i.svg" alt="Jake sits at his desk with his cat and mug of hot tea.">
 </div>
 
 ## Chapter II: The Backstory
@@ -25,7 +25,7 @@ After this realization, the only question left to answer was: Who might Jake pai
 
 
 <div class="margin-top-30 margin-bottom-50">
-  <img src="{{ site.baseurl }}/nationbuilder/chapter-ii.svg" alt="Jake and his cat notice a browser screen with NationBuilder's logo appear above their heads.">
+  <img data-src="{{ site.baseurl }}/nationbuilder/chapter-ii.svg" alt="Jake and his cat notice a browser screen with NationBuilder's logo appear above their heads.">
 </div>
 
 ## Chapter III: The Match
@@ -35,7 +35,7 @@ Once the universe made it blatantly clear that Jake and NationBuilder should joi
 Jake had used his love of writing scalable and semantic HTML, CSS, and JavaScript to <a href="/work" target="_blank" md_>build intentional and informative sites and landing pages</a> in the past, but now he was able to do it knowing those skills would help provide people with opportunities to be the change they wished to see in the world. Jake's knowledge and experience with creating, implementing, and maintaining <a href="https://formstack.com/brand/" target="_blank" md_>Formstack's Brand Design System</a> allowed him to write and implement thoughtful and well crafted components across sites for NationBuilder and their clients. (Fun fact: Jake was even invited to <a href="https://www.instagram.com/p/BaG8lvUlkcj/?taken-by=jacobrokaw" target="_blank" md_>speak to the Tulsa UX group</a> about his experience with design systems.) Lastly, since he is a designer as well, he understands how a collaborative design and development process will always benefit users.
 
 <div class="margin-top-30 margin-bottom-50">
-  <img src="{{ site.baseurl }}/nationbuilder/chapter-iii.svg" alt="Jake designs and builds new landing pages at his desk while his cat watches.">
+  <img data-src="{{ site.baseurl }}/nationbuilder/chapter-iii.svg" alt="Jake designs and builds new landing pages at his desk while his cat watches.">
 </div>
 
 ## Chapter IV: The World is Saved
@@ -45,5 +45,5 @@ Because of the work that NationBuilder and Jake were able to accomplish together
 The universe knew what it was doing when it paired Jake with NationBuilder, which was already contributing so much good to the world. They, along with everyone else in the world, lived happily ever after.
 
 <div class="margin-top-30">
-  <img src="{{ site.baseurl }}/nationbuilder/chapter-iv.svg" alt="Jake sits at his desk in his new GitHub hoodie while his cat is finally able to relax again.">
+  <img data-src="{{ site.baseurl }}/nationbuilder/chapter-iv.svg" alt="Jake sits at his desk in his new GitHub hoodie while his cat is finally able to relax again.">
 </div>
