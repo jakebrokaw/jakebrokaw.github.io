@@ -14,15 +14,22 @@ $.ajax
     var last_game = cle_gamelogs[Object.keys(cle_gamelogs)[Object.keys(cle_gamelogs).length - 1]];
     Object.keys(last_game);
     var win_obj = last_game.stats.Wins;
-    Object.keys(win_obj);
-    var win_value = win_obj[Object.keys(win_obj)[Object.keys(win_obj).length - 1]];
+    var points_for = last_game.stats.PointsFor;
+    Object.keys(points_for);
+    var points_against = last_game.stats.PointsAgainst;
+    Object.keys(points_against);
+    var points_for_val = points_for[Object.keys(win_obj)[Object.keys(win_obj).length - 1]];
+    var points_against_val = points_against[Object.keys(win_obj)[Object.keys(win_obj).length - 1]];
 
-    if (win_value = "0") {
-      $("#no").removeClass("display-none");
-      // console.log("lol nope");
-    } else {
+    // console.log('points for: ' + points_for_val);
+    // console.log('points against: ' + points_against_val);
+
+    if (points_for_val > points_against_val) {
       $("#yes").removeClass("display-none");
       // console.log("omg yes");
+    } else {
+      $("#no").removeClass("display-none");
+      // console.log("lol nope");
     }
 
   }
