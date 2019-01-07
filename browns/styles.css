@@ -76,17 +76,17 @@ h1, h2 {
 }
 
 .footer p {
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .footer a {
-  color: var(--orange);
+  font-weight: bold;
   text-decoration: none;
 }
 
 .footer a:hover,
 .footer a:visited {
-  color: var(--orange);
+  color: var(--white);
 }
 
 /* HELPERS */
@@ -98,7 +98,7 @@ h1, h2 {
 
 /* MOBILE */
 
-@media (max-width: 842px) {
+@media (max-width: 896px) {
 
   .answer {
     font-size: 88px;
@@ -112,7 +112,7 @@ h1, h2 {
 
 }
 
-@media (max-width: 640px) {
+@media (max-width: 659px) {
 
   .headline {
     font-size: 28px;
@@ -125,7 +125,7 @@ h1, h2 {
 
 }
 
-@media (max-width: 524px) {
+@media (max-width: 560px) {
 
   .headline {
     font-size: 24px;
@@ -138,7 +138,7 @@ h1, h2 {
 
 }
 
-@media (max-width: 444px) {
+@media (max-width: 478px) {
 
   .headline {
     font-size: 20px;

@@ -14,7 +14,7 @@
 }
 
 .tofu-portfolio__item {
-  padding: 0px 0 50px;
+  padding: 0px 0 30px;
 }
 
 .tofu-portfolio__item-categories {
@@ -24,8 +24,8 @@
   span {
     display: inline-block;
     padding: 2px 10px;
-    background-color: $darkerGray;
-    color: $white;
+    background-color: $lightGray;
+    color: $darkerGray;
     margin: 5px 8px 5px 0;
   }
 

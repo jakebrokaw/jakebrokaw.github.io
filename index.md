@@ -25,7 +25,7 @@ title: Hey, I’m Jake. I like to make things on the interwebs.
   </strong>
 </p>
 <ul class="margin-top-none">
-  <li><a href="https://amzn.to/2CODTrm" target="_blank" md_>First, We Make the Beast Beautiful</a> // Sarah Wilson</li>
+  <li><a href="https://amzn.to/2CODTrm" target="_blank" md_>The Righteous Mind</a> // Jonathan Haidt</li>
   <li><a href="http://amzn.to/2DE27Cd" target="_blank" md_>The Undiscovered Self</a> // C. G. Jung</li>
   <li><a href="https://amzn.to/2voOC7s" target="_blank" md_>The Daily Stoic</a> // Ryan Holiday</li>
 </ul>
